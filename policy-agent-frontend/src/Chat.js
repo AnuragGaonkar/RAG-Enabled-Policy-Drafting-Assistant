@@ -1,518 +1,738 @@
-import React, { useState, useContext, useEffect, useRef } from 'react';
-import axios from 'axios';
-import ReactMarkdown from 'react-markdown';
-import { AuthContext } from './App';
+import React, { useState, useContext, useEffect, useRef } from "react";
+import axios from "axios";
+import ReactMarkdown from "react-markdown";
+import { AuthContext } from "./App";
 
-const departments = ['health', 'finance', 'education', 'environment', 'agriculture'];
+const departments = ["health", "finance", "education", "environment", "agriculture"];
+
+const policyFields = [
+  { name: "policyName", label: "Policy Name", type: "text", required: true },
+  { name: "policyNumber", label: "Policy Number", type: "text", required: true },
+  { name: "issuer", label: "Issuer", type: "text", required: true },
+  { name: "type", label: "Type", type: "text", required: true },
+  { name: "validFrom", label: "Valid From", type: "date", required: true },
+  { name: "validTo", label: "Valid To", type: "date", required: true },
+  { name: "description", label: "Description", type: "textarea", required: true },
+  { name: "department", label: "Department", type: "select", options: departments, required: true },
+];
 
 export default function Chat() {
   const { token, logout } = useContext(AuthContext);
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState("");
   const [department, setDepartment] = useState(departments[0]);
   const [messages, setMessages] = useState([]);
-
   const [uploadFile, setUploadFile] = useState(null);
-  const [uploadMode, setUploadMode] = useState('create');
-  const [policyId, setPolicyId] = useState('');
-  const [uploadMessage, setUploadMessage] = useState('');
-
-  const [conflictFound, setConflictFound] = useState(false);
+  const [mode, setMode] = useState("");
+  const [form, setForm] = useState({});
+  const [policyId, setPolicyId] = useState("");
+  const [showForm, setShowForm] = useState(false);
+  const [formTouched, setFormTouched] = useState({});
+  const [uploadStatus, setUploadStatus] = useState("");
   const [suggestions, setSuggestions] = useState([]);
-  const [buttonState, setButtonState] = useState('check');  // 'check', 'suggest', 'apply'
-
+  const [buttonState, setButtonState] = useState("hidden");
   const [loading, setLoading] = useState(false);
-
+  const [botTyping, setBotTyping] = useState(false);
+  const [conflictChecked, setConflictChecked] = useState(false);
+  const [conflictExists, setConflictExists] = useState(false);
   const messagesEndRef = useRef(null);
 
-  // Scroll to bottom on new messages or loading changes
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, loading]);
 
-  function highlightQuery(text, query) {
-    // Optional: add highlighting logic for query terms, currently no-op.
-    return text;
+  function handleFileChange(e) {
+    setUploadFile(e.target.files[0] || null);
+    setUploadStatus("");
+    setButtonState("hidden");
+    setSuggestions([]);
+    setConflictChecked(false);
+    setConflictExists(false);
   }
 
-  // Chat functionality unchanged from your original code
-  const onKeyDown = (e) => {
-    if (e.key === 'Enter' && !e.shiftKey && !loading) {
-      e.preventDefault();
-      sendQuery();
+  function handleModeChange(e) {
+    const v = e.target.value;
+    setMode(v);
+    setUploadStatus("");
+    setButtonState("hidden");
+    setSuggestions([]);
+    setConflictChecked(false);
+    setConflictExists(false);
+    if (v === "create") {
+      setShowForm(true);
+      setForm({});
+      setFormTouched({});
+      setPolicyId("");
+    } else if (v === "update") {
+      setShowForm(false);
+      setForm({});
+      setPolicyId("");
+    } else {
+      setShowForm(false);
+      setForm({});
+      setPolicyId("");
     }
-  };
+  }
 
-  async function sendQuery() {
-    if (!query.trim() || loading) return;
-    setMessages((prev) => [...prev, { sender: 'user', text: query }]);
-    setQuery('');
+  function handleFormInput(e) {
+    setForm({ ...form, [e.target.name]: e.target.value });
+    setFormTouched({ ...formTouched, [e.target.name]: true });
+    setConflictChecked(false);
+    setConflictExists(false);
+  }
+
+  function isFormCompleted() {
+    return policyFields.every(
+      (f) => (f.required ? form[f.name] && form[f.name].toString().trim() : true)
+    );
+  }
+
+  function canCheckConflict() {
+    if (loading) return false;
+    if (mode === "create") return isFormCompleted();
+    if (mode === "update") return policyId.trim() !== "";
+    return false;
+  }
+
+  function canSave() {
+    if (loading) return false;
+    return conflictChecked && !conflictExists;
+  }
+
+  async function checkConflict() {
+    if (!canCheckConflict()) return;
     setLoading(true);
-
+    setUploadStatus("");
+    setSuggestions([]);
     try {
-      const { data } = await axios.post(
-        'http://localhost:5000/api/search',
-        { query, department },
-        { headers: { Authorization: `Bearer ${token}` } }
-      );
-
-      let results;
-      try {
-        results = JSON.parse(data.result);
-      } catch {
-        results = [{ snippet: data.result }];
+      const fd = new FormData();
+      if (uploadFile) fd.append("file", uploadFile);
+      fd.append("mode", mode);
+      if (mode === "update") fd.append("policyId", policyId);
+      if (mode === "create") {
+        policyFields.forEach((f) => fd.append(f.name, form[f.name] || ""));
       }
-
-      if (Array.isArray(results) && results.length > 0) {
-        const pdfResultsMap = new Map();
-        results.forEach((r) => {
-          if (!pdfResultsMap.has(r.title))
-            pdfResultsMap.set(r.title, []);
-          pdfResultsMap.get(r.title).push(r.snippet);
-        });
-
-        let reply = '';
-        pdfResultsMap.forEach((snippets, title) => {
-          reply += `**${decodeURIComponent(title)}**\n\n`;
-          snippets.forEach((snippet, idx) => {
-            reply += `- ${snippet}\n`;
-          });
-          reply += '\n';
-        });
-
-        setMessages((m) => [...m, { sender: 'agent', text: reply.trim() }]);
+      const res = await axios.post("http://localhost:5000/api/check-policy-conflict", fd, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      setConflictChecked(true);
+      if (res.data.conflict) {
+        setUploadStatus("Conflict: " + res.data.message);
+        setButtonState("suggest");
+        setConflictExists(true);
       } else {
-        setMessages((m) => [...m, { sender: 'agent', text: 'No results found.' }]);
+        setUploadStatus("No conflicts detected. Ready to save.");
+        setButtonState("apply");
+        setConflictExists(false);
       }
     } catch {
-      setMessages((m) => [...m, { sender: 'agent', text: 'Error occurred while processing the query.' }]);
+      setUploadStatus("Conflict check failed.");
+      setConflictChecked(false);
+      setButtonState("hidden");
     }
     setLoading(false);
   }
 
-  const renderAvatar = (sender) => {
-    if (sender === 'user') {
+  async function suggestChanges() {
+    if (!uploadFile) return;
+    setLoading(true);
+    try {
+      const fd = new FormData();
+      fd.append("file", uploadFile);
+      const res = await axios.post("http://localhost:5000/api/suggest-policy-edits", fd, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      setSuggestions(res.data.suggestions || []);
+      setButtonState("apply");
+      setUploadStatus("Suggestions ready. Review and save.");
+    } catch {
+      setUploadStatus("Failed to generate suggestions.");
+    }
+    setLoading(false);
+  }
+
+  async function savePolicy() {
+    if (!canSave()) return;
+    setLoading(true);
+    setUploadStatus("");
+    try {
+      const fd = new FormData();
+      if (uploadFile) fd.append("file", uploadFile);
+      fd.append("mode", mode);
+      if (mode === "update") fd.append("policyId", policyId);
+      if (mode === "create") {
+        policyFields.forEach((f) => fd.append(f.name, form[f.name] || ""));
+      }
+      const res = await axios.post("http://localhost:5000/api/upload-policy", fd, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      if (res.status === 200 && !res.data.conflict) {
+        setUploadStatus(res.data.message || "Policy saved.");
+        setButtonState("hidden");
+        setUploadFile(null);
+        setForm({});
+        setMode("");
+        setPolicyId("");
+        setShowForm(false);
+        setSuggestions([]);
+        setFormTouched({});
+        setConflictChecked(false);
+        setConflictExists(false);
+      } else {
+        setUploadStatus("Conflict: " + res.data.message);
+        setButtonState("suggest");
+        setConflictExists(true);
+      }
+    } catch {
+      setUploadStatus("Failed to save policy.");
+    }
+    setLoading(false);
+  }
+
+  async function sendMessage() {
+    if (!query.trim() || loading) return;
+    setMessages((prev) => [...prev, { sender: "user", text: query }]);
+    setQuery("");
+    setLoading(true);
+    setBotTyping(true);
+
+    try {
+      const res = await axios.post(
+        "http://localhost:5000/api/search",
+        { query, department },
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+          },
+        }
+      );
+
+      let parsedResults;
+      try {
+        parsedResults = JSON.parse(res.data.result);
+      } catch {
+        parsedResults = [{ snippet: res.data.result }];
+      }
+
+      if (Array.isArray(parsedResults) && parsedResults.length > 0) {
+        const grouped = new Map();
+        parsedResults.forEach((r) => {
+          if (!grouped.has(r.title)) grouped.set(r.title, []);
+          grouped.get(r.title).push(r.snippet);
+        });
+        let answer = "";
+        grouped.forEach((snips, title) => {
+          answer += `**${decodeURIComponent(title)}**\n\n`;
+          snips.forEach((s) => (answer += `- ${s}\n`));
+          answer += "\n";
+        });
+        setMessages((prev) => [...prev, { sender: "agent", text: answer }]);
+      } else {
+        setMessages((prev) => [...prev, { sender: "agent", text: "No results found." }]);
+      }
+    } catch {
+      setMessages((prev) => [...prev, { sender: "agent", text: "Failed to fetch answer." }]);
+    }
+    setLoading(false);
+    setBotTyping(false);
+  }
+
+  const onKeyDown = (e) => {
+    if (e.key === "Enter" && !e.shiftKey && !loading) {
+      e.preventDefault();
+      sendMessage();
+    }
+  };
+
+  function renderAvatar(sender) {
+    if (sender === "user")
       return (
         <div
           style={{
             width: 36,
             height: 36,
-            borderRadius: '50%',
-            background: 'linear-gradient(90deg,#b993fe,#2b3467)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
+            borderRadius: "50%",
+            background: "linear-gradient(90deg,#b993fe,#2b3467)",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
             fontWeight: 700,
-            color: '#fff',
+            color: "#fff",
             fontSize: 19,
-            border: '2px solid #ddd',
+            border: "2px solid #ddd",
           }}
         >
           U
         </div>
       );
-    }
-
     return (
       <div
         style={{
           width: 36,
           height: 36,
-          borderRadius: '50%',
-          background: 'linear-gradient(90deg,#6d8cff 60%,#b993fe 100%)',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          border: '2px solid #261f49',
+          borderRadius: "50%",
+          background: "linear-gradient(90deg,#6d8cff 60%,#b993fe 100%)",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          border: "2px solid #26149",
         }}
       >
         <svg width={22} height={22} viewBox="0 0 24 24" fill="none">
-          <rect x={4} y={7} width={16} height={10} rx={6} fill="#fff" />
-          <circle cx={8} cy={12} r={1.4} fill="#b993fe" />
-          <circle cx={16} cy={12} r={1.4} fill="#b993fe" />
-          <rect x={10.5} y={5.5} width={3} height={3} rx={1.5} fill="#6d8cff" />
+          <rect x={4} y={7} width={16} height={10} rx={6} fill="#fff"></rect>
+          <circle cx={8} cy={12} r={1.4} fill="#b993fe"></circle>
+          <circle cx={16} cy={12} r={1.4} fill="#b993fe"></circle>
+          <rect x={10.5} y={5.5} width={3} height={3} rx={1.5} fill="#6c8cff"></rect>
         </svg>
       </div>
     );
-  };
+  }
 
-  const TypingBubble = () => (
-    <div style={{ display: 'flex', alignItems: 'flex-end', margin: '18px 0' }}>
-      {renderAvatar('agent')}
-      <div
-        style={{
-          background: 'linear-gradient(90deg,#6366f 70%,#b993fe 100%)',
-          color: 'white',
-          padding: '16px 30px',
-          borderRadius: 18,
-          marginLeft: 12,
-          minHeight: 36,
-          fontSize: 18,
-          letterSpacing: 1,
-          minWidth: 72,
-          boxShadow: '0 2px 16px rgba(88,99,141,0.14)',
-          display: 'flex',
-          alignItems: 'center',
-        }}
-      >
-        <DotAnimation />
+  function TypingBubble() {
+    return (
+      <div style={{ display: "flex", alignItems: "center", margin: "18px 0" }}>
+        {renderAvatar("agent")}
+        <div
+          style={{
+            background: "linear-gradient(90deg,#636df6 70%,#aa9cfc 100%)",
+            color: "#fff",
+            padding: 14,
+            borderRadius: 18,
+            minHeight: 36,
+            width: 80,
+          }}
+        >
+          <DotAnimation />
+        </div>
       </div>
-    </div>
-  );
-
-  const DotAnimation = () => (
-    <>
-      <span className="typing-dot" style={{ animationDelay: '0s', fontSize: 32, margin: '0 2px' }}>
-        •
-      </span>
-      <span className="typing-dot" style={{ animationDelay: '0.2s', fontSize: 32, margin: '0 2px' }}>
-        •
-      </span>
-      <span className="typing-dot" style={{ animationDelay: '0.4s', fontSize: 32, margin: '0 2px' }}>
-        •
-      </span>
-      <style>{`
-        .typing-dot {
-          opacity: 0.6;
-          animation: blink 1.1s infinite;
-        }
-        @keyframes blink {
-          0%, 80%, 100% {
-            opacity: 0.2;
-          }
-          40% {
-            opacity: 1;
-          }
-        }
-      `}</style>
-    </>
-  );
-
-  // --------------------
-  // Upload workflow handlers
-  // --------------------
-
-  const handleUploadFileChange = (e) => {
-    setUploadFile(e.target.files[0]);
-    // Reset states related to upload flow:
-    setConflictFound(false);
-    setSuggestions([]);
-    setButtonState('check');
-    setUploadMessage('');
-  };
-
-  async function handleCheckConflict() {
-    if (!uploadFile) {
-      alert('Please select a file');
-      return;
-    }
-    if (uploadMode === 'update' && !policyId.trim()) {
-      alert('Please enter Policy ID');
-      return;
-    }
-
-    setLoading(true);
-
-    const formData = new FormData();
-    formData.append('file', uploadFile);
-    formData.append('mode', uploadMode);
-    if (uploadMode === 'update') formData.append('policyId', policyId);
-
-    try {
-      const response = await axios.post('/api/check-policy-conflict', formData, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          'Content-Type': 'multipart/form-data',
-        },
-      });
-
-      if (response.data.conflict) {
-        setConflictFound(true);
-        setUploadMessage(`Conflict: ${response.data.message}`);
-        setButtonState('suggest');
-      } else {
-        setConflictFound(false);
-        setUploadMessage('No conflicts. Ready to save.');
-        setButtonState('apply');
-      }
-    } catch (e) {
-      setUploadMessage('Conflict check failed.');
-      console.error(e);
-    }
-
-    setLoading(false);
+    );
   }
 
-  async function handleSuggestChanges() {
-    if (!uploadFile) return;
-
-    setLoading(true);
-
-    const formData = new FormData();
-    formData.append('file', uploadFile);
-
-    try {
-      const response = await axios.post('/api/suggest-policy-edits', formData, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          'Content-Type': 'multipart/form-data',
-        },
-      });
-      setSuggestions(response.data.suggestions || []);
-      setButtonState('apply');
-      setUploadMessage('Suggestions ready. Apply changes or save.');
-    } catch (e) {
-      setUploadMessage('Suggestion generation failed.');
-      console.error(e);
-    }
-
-    setLoading(false);
-  }
-
-  async function handleApplySave() {
-    if (!uploadFile) {
-      alert('Select file before saving.');
-      return;
-    }
-
-    setLoading(true);
-
-    const formData = new FormData();
-    formData.append('file', uploadFile);
-    formData.append('mode', uploadMode);
-    if (uploadMode === 'update') formData.append('policyId', policyId);
-
-    try {
-      const response = await axios.post('/api/upload-policy', formData, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          'Content-Type': 'multipart/form-data',
-        },
-      });
-
-      if (response.status === 200) {
-        if (response.data.conflict) {
-          setConflictFound(true);
-          setUploadMessage(`Conflict: ${response.data.message}`);
-          setButtonState('suggest');
-        } else {
-          setConflictFound(false);
-          setUploadMessage(response.data.message || 'Policy saved!');
-          setButtonState('check');
-          setSuggestions([]);
-          setUploadFile(null);
-          setPolicyId('');
-        }
-      }
-    } catch (e) {
-      if (e.response && e.response.status === 409) {
-        setConflictFound(true);
-        setUploadMessage(`Conflict: ${e.response.data.message}`);
-        setButtonState('suggest');
-      } else {
-        setUploadMessage('Save failed.');
-      }
-      console.error(e);
-    }
-
-    setLoading(false);
+  function DotAnimation() {
+    return (
+      <>
+        <span className="typing-dot" style={{ fontSize: 28, margin: "0 3px", animation: "ip 1.2s ease-in-out infinite" }}>●</span>
+        <span className="typing-dot" style={{ fontSize: 28, margin: "0 3px", animation: "ip 1.2s ease-in-out 0.25s infinite" }}>●</span>
+        <span className="typing-dot" style={{ fontSize: 28, margin: "0 3px", animation: "ip 1.2s ease-in-out 0.5s infinite" }}>●</span>
+        <style>{`
+          @keyframes ip {
+            0%, 100% { opacity: 1; transform: translateY(0); }
+            50% { opacity: 0.3; transform: translateY(-10px); }
+          }
+          .typing-dot {
+            color: #d3cef5;
+          }
+        `}</style>
+      </>
+    );
   }
 
   return (
-    <div style={{ width: '100vw', height: '100vh', background: '#232a', fontFamily: 'Segoe UI, Arial, sans-serif', display: 'flex', flexDirection: 'column', margin: 0, padding: 0 }}>
-      {/* Your existing header, chat UI, and input box remain identical */}
-
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        gap: 12,
-        backgroundColor: '#1f2937',
-        padding: '14px 20px',
-        borderRadius: 12,
-        boxShadow: '0 4px 15px rgba(88,99,141,0.17)',
-        margin: '18px auto 0 auto',
-        maxWidth: 790,
-        width: '96%',
-      }}>
-        <label htmlFor="file-upload" style={{
-          backgroundColor: '#4f46e5',
-          color: '#fff',
-          padding: '10px 18px',
-          borderRadius: 8,
-          cursor: 'pointer',
-          fontWeight: 600,
-          fontSize: 15,
-        }}>
-          <svg width={16} height={16} style={{ marginBottom: -2, marginRight: 4 }} fill="none" stroke="white" strokeWidth={2} viewBox="0 0 24 24"><path d="M12 21V3M6 10l6-7 6 7M4 16h16" /></svg>
-          Choose File
-          <input id="file-upload" type="file" style={{ display: 'none' }} onChange={handleUploadFileChange} />
-        </label>
-
-        <span style={{ color: '#cbd', fontSize: 15, flexGrow: 1, overflow: 'hidden', whiteSpace: 'nowrap', textOverflow: 'ellipsis' }}>
-          {uploadFile ? uploadFile.name : 'No file chosen'}
-        </span>
-
-        <select value={uploadMode} onChange={e => setUploadMode(e.target.value)} style={{
-          backgroundColor: '#374151',
-          border: 'none',
-          color: '#db',
-          padding: '10px 14px',
-          borderRadius: 8,
-          fontWeight: 600,
-          fontSize: 15,
-          cursor: 'pointer',
-        }}>
-          <option value="create">Create</option>
-          <option value="update">Update</option>
-        </select>
-
-        {uploadMode === 'update' && (
-          <input
-            style={{ marginLeft: 8, width: 170, padding: 10, borderRadius: 8, border: 'none', backgroundColor: '#374151', color: '#db', fontWeight: 600, fontSize: 15 }}
-            placeholder="Policy ID"
-            type="text"
-            value={policyId}
-            onChange={e => setPolicyId(e.target.value)}
-          />
-        )}
-
-        <button
-          disabled={loading}
-          style={{
-            marginLeft: 10,
-            padding: '10px 18px',
-            borderRadius: 8,
-            border: 'none',
-            backgroundColor: '#4f46e5',
-            color: '#fff',
-            fontWeight: 600,
-            fontSize: 15,
-            cursor: loading ? 'not-allowed' : 'pointer',
-            boxShadow: '0 0 10px #4f46e5',
-          }}
-          onClick={handleCheckConflict}
-        >
-          Check Conflict
-        </button>
-
-        <button
-          disabled={loading || (buttonState === 'suggest' && suggestions.length === 0) || conflictFound}
-          style={{
-            marginLeft: 10,
-            padding: '10px 18px',
-            borderRadius: 8,
-            border: 'none',
-            backgroundColor: buttonState === 'suggest' ? '#f59e0b' : '#22c55e',
-            color: '#fff',
-            fontWeight: 600,
-            fontSize: 15,
-            cursor: loading ? 'not-allowed' : 'pointer',
-            boxShadow: buttonState === 'suggest' ? '0 0 10px #f59e0b' : '0 0 10px #22c55e',
-          }}
-          onClick={() => {
-            if (buttonState === 'suggest') handleSuggestChanges();
-            else if (buttonState === 'apply') handleApplySave();
-          }}
-        >
-          {buttonState === 'suggest' ? 'Suggest Changes' : 'Save'}
-        </button>
-      </div>
-
-      {suggestions.length > 0 && (
-        <div
-          style={{
-            maxWidth: 790,
-            margin: '12px auto',
-            padding: 12,
-            backgroundColor: '#1e293b',
-            borderRadius: 8,
-            maxHeight: 160,
-            overflowY: 'auto',
-            color: '#fff',
-            fontSize: 14,
-          }}
-        >
-          <strong>Suggestions:</strong>
-          <ul>
-            {suggestions.map((s, i) => (
-              <li key={i}>{s}</li>
-            ))}
-          </ul>
-        </div>
-      )}
-
-      {/* Insert your complete original chat message display and input box UI here */}
-
-      <div style={{ flexGrow: 1, overflowY: 'auto', padding: '20px 34px', maxHeight: 'calc(100vh - 250px)' }}>
-        {messages.length === 0 ? (
-          <div style={{ color: '#5f617d', textAlign: 'center', marginTop: 15, fontSize: 20 }}>Start chatting...</div>
-        ) : (
-          messages.map((msg, idx) => (
-            <div key={idx} style={{ display: 'flex', justifyContent: msg.sender === 'user' ? 'flex-end' : 'flex-start', marginBottom: 16, alignItems: 'flex-start' }}>
-              {msg.sender !== 'user' && (
-                <div style={{ marginRight: 12 }}>
-                  {renderAvatar('agent')}
-                </div>
-              )}
-              <div style={{ maxWidth: '70%', background: msg.sender === 'user' ? 'linear-gradient(90deg,#b993fe,#2b3467)' : 'linear-gradient(99deg,#6366f 70%,#b993fe 100%)', padding: 12, borderRadius: 12, color: msg.sender === 'user' ? '#fff' : '#ddd', fontSize: 16 }}>
-                {msg.sender === 'agent' ? <ReactMarkdown>{msg.text}</ReactMarkdown> : msg.text}
-              </div>
-              {msg.sender === 'user' && (
-                <div style={{ marginLeft: 12 }}>
-                  {renderAvatar('user')}
-                </div>
-              )}
-            </div>
-          ))
-        )}
-        <div ref={messagesEndRef} />
-      </div>
-
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        height: "100vh",
+        width: "100vw",
+        backgroundColor: "#1a1e2a",
+        fontFamily: "Segoe UI, Tahoma, Geneva, Verdana, sans-serif",
+        color: "#d1d5db",
+      }}
+    >
+      {/* Header */}
       <div
         style={{
-          display: 'flex',
-          padding: '12px 34px',
-          borderTop: '1px solid #3c3f52',
-          backgroundColor: '#1e202d',
-          alignItems: 'center',
-          gap: 12,
+          padding: "24px 36px",
+          backgroundColor: "#222538",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          color: "#d1d5db",
         }}
       >
-        <textarea
-          rows={2}
+        <h1 style={{ margin: 0 }}>Policy Assistant</h1>
+        <div>
+          <select
+            value={department}
+            onChange={(e) => setDepartment(e.target.value)}
+            style={{
+              marginRight: 16,
+              backgroundColor: "#1e2237",
+              color: "#d1d5db",
+              borderRadius: 6,
+              border: "none",
+              padding: "6px 12px",
+              fontSize: 16,
+              cursor: "pointer",
+            }}
+          >
+            {departments.map((dep) => (
+              <option key={dep} value={dep}>
+                {dep}
+              </option>
+            ))}
+          </select>
+          <button
+            onClick={logout}
+            style={{
+              borderRadius: 6,
+              padding: "8px 14px",
+              backgroundColor: "#ef4444",
+              border: "none",
+              cursor: "pointer",
+              color: "white",
+              fontWeight: "bold",
+              fontSize: 16,
+            }}
+          >
+            Logout
+          </button>
+        </div>
+      </div>
+
+      {/* Body */}
+      <div
+        style={{
+          flex: 1,
+          display: "flex",
+          gap: 20,
+          padding: 20,
+          overflow: "hidden",
+        }}
+      >
+        {/* Upload + Form panel */}
+        <div
           style={{
-            flexGrow: 1,
+            flexBasis: 420,
+            backgroundColor: "#222538",
             borderRadius: 12,
-            border: 'none',
-            padding: 12,
-            fontSize: 16,
-            resize: 'none',
-            outline: 'none',
-            backgroundColor: '#2b2e43',
-            color: '#ddd',
-          }}
-          placeholder="Ask your query here..."
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          onKeyDown={onKeyDown}
-          disabled={loading}
-        />
-        <button
-          onClick={sendQuery}
-          disabled={loading || !query.trim()}
-          style={{
-            backgroundColor: '#4f46e5',
-            color: '#fff',
-            borderRadius: 12,
-            border: 'none',
-            padding: '12px 24px',
-            fontSize: 16,
-            fontWeight: 'bold',
-            cursor: loading ? 'not-allowed' : 'pointer',
-            boxShadow: '0 0 10px #4f46e5',
+            padding: 20,
+            color: "#cbd5e1",
+            display: "flex",
+            flexDirection: "column",
+            gap: 16,
           }}
         >
-          {loading ? <DotAnimation /> : 'Send'}
-        </button>
+          <h2>Upload and Policy Actions</h2>
+          <input
+            type="file"
+            onChange={handleFileChange}
+            style={{ marginBottom: 12 }}
+          />
+          <select
+            value={mode}
+            onChange={handleModeChange}
+            style={{
+              padding: 8,
+              fontSize: 16,
+              borderRadius: 8,
+              border: "none",
+              backgroundColor: "#1e2237",
+              color: "#cbd5e1",
+              fontWeight: 600,
+            }}
+          >
+            <option value="">Select Action</option>
+            <option value="create">Create</option>
+            <option value="update">Update</option>
+          </select>
+
+          {mode === "create" && showForm && (
+            <form
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                gap: 12,
+                marginTop: 8,
+              }}
+              onSubmit={(e) => e.preventDefault()}
+            >
+              {policyFields.map((f) => (
+                <div key={f.name} style={{ display: "flex", flexDirection: "column", gap: 4 }}>
+                  <label style={{ fontWeight: 600, color: "#cbd5e1" }}>
+                    {f.label}
+                  </label>
+                  {f.type === "textarea" ? (
+                    <textarea
+                      name={f.name}
+                      value={form[f.name] || ""}
+                      onChange={handleFormInput}
+                      style={{
+                        padding: 8,
+                        borderRadius: 8,
+                        border: "none",
+                        fontSize: 16,
+                        backgroundColor: "#1e2237",
+                        color: "#cbd5e1",
+                        fontFamily: "inherit",
+                        resize: "vertical",
+                        minHeight: 80,
+                        outline: "none",
+                      }}
+                    />
+                  ) : f.type === "select" ? (
+                    <select
+                      name={f.name}
+                      value={form[f.name] || ""}
+                      onChange={handleFormInput}
+                      style={{
+                        padding: 8,
+                        borderRadius: 8,
+                        border: "none",
+                        fontSize: 16,
+                        backgroundColor: "#1e2237",
+                        color: "#cbd5e1",
+                        fontFamily: "inherit",
+                        outline: "none",
+                        cursor: "pointer",
+                      }}
+                    >
+                      <option value="">-- Select Department --</option>
+                      {f.options.map((opt) => (
+                        <option key={opt} value={opt}>
+                          {opt}
+                        </option>
+                      ))}
+                    </select>
+                  ) : (
+                    <input
+                      name={f.name}
+                      type={f.type}
+                      value={form[f.name] || ""}
+                      onChange={handleFormInput}
+                      style={{
+                        padding: 8,
+                        borderRadius: 8,
+                        border: "none",
+                        fontSize: 16,
+                        backgroundColor: "#1e2237",
+                        color: "#cbd5e1",
+                        fontFamily: "inherit",
+                        outline: "none",
+                      }}
+                    />
+                  )}
+                  {formTouched[f.name] && (!form[f.name] || !form[f.name].toString().trim()) && (
+                    <span style={{ color: "#f87171", fontSize: 13 }}>Required</span>
+                  )}
+                </div>
+              ))}
+            </form>
+          )}
+
+          {mode === "update" && (
+            <input
+              type="text"
+              placeholder="Policy ID"
+              value={policyId}
+              onChange={(e) => setPolicyId(e.target.value)}
+              style={{
+                padding: 10,
+                fontSize: 16,
+                borderRadius: 8,
+                border: "none",
+                backgroundColor: "#1e2237",
+                color: "#cbd5e1",
+                fontWeight: "600",
+                outline: "none",
+                marginTop: 10,
+              }}
+            />
+          )}
+
+          <div style={{ display: "flex", gap: 16 }}>
+            <button
+              disabled={
+                loading ||
+                (mode === "create" && !isFormCompleted()) ||
+                (mode === "update" && !policyId.trim())
+              }
+              onClick={checkConflict}
+              style={{
+                flex: 1,
+                backgroundColor:
+                  loading ||
+                  (mode === "create" && !isFormCompleted()) ||
+                  (mode === "update" && !policyId.trim())
+                    ? "#555"
+                    : "#6366f1",
+                borderRadius: 8,
+                color: "white",
+                fontWeight: "bold",
+                fontSize: 16,
+                border: "none",
+                padding: "12px 0",
+                cursor:
+                  loading ||
+                  (mode === "create" && !isFormCompleted()) ||
+                  (mode === "update" && !policyId.trim())
+                    ? "not-allowed"
+                    : "pointer",
+                opacity:
+                  (mode === "create" && !isFormCompleted()) || (mode === "update" && !policyId.trim())
+                    ? 0.6
+                    : 1,
+              }}
+            >
+              Check Conflict
+            </button>
+
+            <button
+              disabled={loading || buttonState !== "apply"}
+              onClick={() => {
+                if (buttonState === "suggest") suggestChanges();
+                else if (buttonState === "apply") savePolicy();
+              }}
+              style={{
+                flex: 1,
+                backgroundColor: buttonState === "apply" ? "#22c55e" : "#555",
+                borderRadius: 8,
+                color: "white",
+                fontWeight: "bold",
+                fontSize: 16,
+                border: "none",
+                padding: "12px 0",
+                cursor: loading || buttonState !== "apply" ? "not-allowed" : "pointer",
+                opacity: loading || buttonState !== "apply" ? 0.6 : 1,
+              }}
+            >
+              {buttonState === "suggest" ? "Suggest Changes" : "Save"}
+            </button>
+          </div>
+
+          {uploadStatus && (
+            <div style={{ marginTop: 16, color: "#fbbf24", fontWeight: "600" }}>{uploadStatus}</div>
+          )}
+
+          {suggestions.length > 0 && (
+            <div
+              style={{
+                marginTop: 12,
+                maxHeight: 140,
+                overflowY: "auto",
+                background: "#1e2237",
+                padding: 12,
+                borderRadius: 8,
+                fontSize: 14,
+                color: "#cbd5e1",
+              }}
+            >
+              <strong>Suggestions:</strong>
+              <ul style={{ marginTop: 8 }}>
+                {suggestions.map((s, i) => (
+                  <li key={i}>{s}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+
+        {/* Chat panel */}
+        <div
+          style={{
+            flex: 1,
+            backgroundColor: "#222538",
+            borderRadius: 12,
+            display: "flex",
+            flexDirection: "column",
+            overflow: "hidden",
+          }}
+        >
+          <div
+            style={{
+              flex: 1,
+              overflowY: "auto",
+              padding: 20,
+              color: "#e0e7ff",
+              fontSize: 16,
+            }}
+          >
+            {messages.length === 0 && !botTyping && (
+              <div style={{ textAlign: "center", marginTop: 40, color: "#777", fontSize: 18 }}>
+                Start chatting...
+              </div>
+            )}
+
+            {messages.map((m, i) => (
+              <div
+                key={i}
+                style={{
+                  marginBottom: 16,
+                  display: "flex",
+                  flexDirection: m.sender === "user" ? "row-reverse" : "row",
+                  gap: 8,
+                  alignItems: "flex-start",
+                }}
+              >
+                {m.sender === "agent" && renderAvatar("agent")}
+                <div
+                  style={{
+                    background: m.sender === "user" ? "#5b4fbb" : "#272a3d",
+                    padding: "12px 18px",
+                    borderRadius: 12,
+                    maxWidth: "75%",
+                    color: "#e0e7ff",
+                    fontSize: 16,
+                    whiteSpace: "pre-wrap",
+                  }}
+                >
+                  {m.sender === "agent" ? <ReactMarkdown>{m.text}</ReactMarkdown> : m.text}
+                </div>
+                {m.sender === "user" && renderAvatar("user")}
+              </div>
+            ))}
+
+            {botTyping && <TypingBubble />}
+
+            <div ref={messagesEndRef} />
+          </div>
+
+          <div
+            style={{
+              padding: 16,
+              background: "#1c1f2f",
+              borderRadius: "0 0 12px 12px",
+            }}
+          >
+            <textarea
+              placeholder="Type your question here..."
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={onKeyDown}
+              disabled={loading}
+              rows={3}
+              style={{
+                width: "100%",
+                borderRadius: 12,
+                resize: "none",
+                padding: 14,
+                fontSize: 16,
+                background: "#272a49",
+                border: "none",
+                color: "#e0e7ff",
+                fontWeight: "bold",
+              }}
+            />
+            <button
+              disabled={loading || !query.trim()}
+              onClick={sendMessage}
+              style={{
+                marginTop: 16,
+                width: "100%",
+                background: loading ? "#9393a6" : "linear-gradient(90deg,#7c3aed,#bb86fc)",
+                borderRadius: 12,
+                padding: 14,
+                color: "white",
+                fontWeight: "bold",
+                fontSize: 16,
+                outline: "none",
+                border: "none",
+                cursor: loading ? "not-allowed" : "pointer",
+              }}
+            >
+              Send
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );
