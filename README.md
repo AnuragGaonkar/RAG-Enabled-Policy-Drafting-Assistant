@@ -89,4 +89,4 @@ pnpm dev
 ## Contact and Links
 **Anurag Gaonkar** - [GitHub](https://github.com/AnuragGaonkar) | [LinkedIn](https://www.linkedin.com/in/anurag-gaonkar-68a463261)
 
-Project Link: [[https://github.com/AnuragGaonkar/RAG-Enabled-Policy-Drafting-Assistant](https://github.com/AnuragGaonkar/RAG-Enabled-Policy-Drafting-Assistant)]
+Project Link: [https://github.com/AnuragGaonkar/RAG-Enabled-Policy-Drafting-Assistant](https://github.com/AnuragGaonkar/RAG-Enabled-Policy-Drafting-Assistant)
