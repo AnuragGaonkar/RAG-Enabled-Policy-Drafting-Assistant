@@ -1,0 +1,2456 @@
+[
+  {
+    "text": "A person may process the personal data of a Data Principal only in accordance with the provisions of this Act and for a lawful purpose.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "4",
+    "sub_section": "4(1)",
+    "topic": "Grounds for processing personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person may process the personal data of a Data Principal only for (a) a lawful purpose, for which the Data Principal has given her consent or (b) for certain legitimate uses.",
+    "type": "condition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "4",
+    "sub_section": "4(1)",
+    "topic": "Grounds for processing personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "any purpose which is not expressly forbidden by law",
+    "term": "lawful purpose",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "4",
+    "sub_section": "4(2)",
+    "topic": "Grounds for processing personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every request made to a Data Principal under section 6 for consent shall be accompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(1)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to section 6 and section 13; and the manner in which a Data Principal may make a complaint to the Board.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(4)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y shall accompany or precede the request for the personal data with notice to X, describing the personal data and the purpose of its processing.",
+    "type": "obligation",
+    "applies_to": [
+      "Y"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(4)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act applies to cases where a Data Principal has given her consent for the processing of her personal data before the date of commencement of this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(2)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary shall, as soon as it is reasonably practicable, give to the Data Principal a notice informing her about the personal data processed and the purpose for which it has been processed, and how she may exercise her rights under sub-section.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(2)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text pertains to the Data Principal (individual) and the Data Fiduciary (e-commerce service provider), in relation to personal data processing, under the Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(4)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary may continue to process the personal data until and unless the Data Principal withdraws her consent.",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(4)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Upon commencement of the Act, Y shall, as soon as practicable, give through email, in-app notification or other effective method information to X, describing the personal data and the purpose of its processing.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(4)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary shall give the Data Principal the option to access the contents of the notice referred to in sub-sections",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(3)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The language can be English or any language specified in the Eighth Schedule to the Constitution.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "5",
+    "sub_section": "5(2)",
+    "topic": "Notice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary may process personal data of a Data Principal for any of following uses:",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y may process the personal data of X for the purpose of sending the receipt.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary (Y)"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y may process her personal data to identify and intimate to her the details of accommodation available on rent.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary (Y)"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y shall cease to process the personal data of X.",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Fiduciary (Y)"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not explicitly defined in the text.",
+    "term": "Data Principal",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not explicitly defined in the text.",
+    "term": "personal data",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text applies to the processing of personal data by the State or any of its instrumentalities for any subsidy, benefit, service, certificate, licence or permit. The data must be previously consented to by the Data Principal or available in digital or non-digital form from a database, register, book or other document maintained by the State or any of its instrumentalities and notified by the Central Government.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State or any of its instrumentalities may issue to the Data Principal such subsidy, benefit, service, certificate, licence or permit as may be prescribed, provided that she has previously consented to the processing of her personal data for any subsidy, benefit, service, certificate, licence or permit, or such personal data is available in digital or non-digital form and digitised subsequently from a database, register, book or other document which is maintained by the State or any of its instrumentalities and notified by the Central Government.",
+    "type": "obligation",
+    "applies_to": [
+      "State | instrumentalities"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The processing of personal data by the State or any of its instrumentalities for determining eligibility to receive any other prescribed benefit from the government is allowed.",
+    "type": "condition",
+    "applies_to": [
+      "State | instrumentalities"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the act of revealing or making known information",
+    "term": "disclosure",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a situation involving a threat to the life or immediate threat to the health of an individual",
+    "term": "medical emergency",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an outbreak of disease that affects many individuals in a community or region",
+    "term": "epidemic",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a sudden and rapid increase in the number of cases of a particular disease within a specific area or population",
+    "term": "outbreak of disease",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an event causing widespread destruction, loss of life, or damage to property",
+    "term": "disaster",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a failure or collapse of a system or structure",
+    "term": "breakdown",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the processing of personal data in India, for fulfilling obligations under any law, responding to medical emergencies, ensuring public health, and during disasters.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the meaning as assigned to it in clause (d) of section 2 of the Disaster Management Act, 2005 (53 of 2005)",
+    "term": "disaster",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purposes of this clause, 'disaster' has different meanings depending on the context: in relation to public order or in employment and related matters.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "7",
+    "sub_section": null,
+    "topic": "Certain legitimate uses",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall, irrespective of any agreement to the contrary or failure of a Data Principal to carry out the duties provided under this Act, be responsible for complying with the provisions of this Act and the rules made thereunder in respect of any processing undertaken by it or on its behalf by a Data Processor.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall comply with the provisions of this Act and the rules made thereunder in respect of any processing undertaken by it or on its behalf by a Data Processor.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary may engage, appoint, use or otherwise involve a Data Processor to process personal data on its behalf for any activity related to offering of goods or services to Data Principals only under a valid contract.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "personal data processed by a Data Fiduciary is likely to be— (a) used to make a decision that affects the Data Principal; or (b) disclosed to another Data Fiduciary",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(3)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Data Fiduciary processing such personal data shall ensure its completeness, accuracy and consistency.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(3)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall implement appropriate technical and organisational measures to ensure effective observance of the provisions of this Act and the rules made thereunder.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(4)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall protect personal data by taking reasonable security safeguards to prevent personal data breach.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "In the event of a personal data breach, the Data Fiduciary shall give the Board and each affected Data Principal, intimation of such breach.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(6)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the applicability of rules related to erasure of personal data by a Data Fiduciary, specifically in relation to an individual (Data Principal), clinical establishments, hospitals, companies, and individuals.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall erase personal data upon the Data Principal withdrawing her consent or as soon as it is reasonable to assume that the specified purpose is no longer being served, whichever is earlier.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall cause its Data Processor to erase any personal data that was made available by the Data Fiduciary for processing.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y shall no longer retain her personal data if the online marketplace helps conclude the sale.",
+    "type": "prohibition",
+    "applies_to": [
+      "Y (e-commerce service provider)"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Since retention is necessary for compliance with law, Y shall retain X’s personal data for a period of ten years beyond closing of accounts.",
+    "type": "exception",
+    "applies_to": [
+      "Y (bank)"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Principal's consent is deemed to no longer be served if she does not approach the Data Fiduciary for the performance of the specified purpose and does not exercise any of her rights in relation to such processing, for a time period as may be prescribed.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall publish, in such manner as may be prescribed, the business contact information of a Data Protection Officer, if applicable, or a person who is able to answer on behalf of the Data Fiduciary, the questions, if any, raised by the Data Principal about the processing of her personal data.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(9)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall establish an effective mechanism to redress the grievances of Data Principals.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(10)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who is considered as not having approached the Data Fiduciary for the performance of a specified purpose, during any period in which she has not initiated contact with the Data Fiduciary for such performance, either in person or by way of communication in electronic or physical form.",
+    "term": "Data Principal",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "8",
+    "sub_section": "8(11)",
+    "topic": "General obligations of Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The person who determines the purposes and means of the processing of personal data.",
+    "term": "Data Fiduciary",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(1)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person who requires consent from their parent or legal guardian before their personal data can be processed.",
+    "term": "child or a person with disability who has a lawful guardian",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(1)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This sub-section applies to the processing of personal data of a child or a person with disability who has a lawful guardian.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(1)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary shall obtain verifiable consent from the parent or legal guardian before processing any personal data of a child or a person with disability who has a lawful guardian.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(1)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall not undertake such processing of personal data that is likely to cause any detrimental effect on the well-being of a child.",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(2)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children.",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "processing of personal data of a child by such classes of Data Fiduciaries or for such purposes, and subject to such conditions",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall not be applicable",
+    "type": "prohibition",
+    "applies_to": [
+      "processing of personal data of a child by such classes of Data Fiduciaries or for such purposes"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, if satisfied that a Data Fiduciary has ensured that its processing of personal data of children is done in a manner that is verifiably safe, notify for such processing by such Data Fiduciary the age above which that Data Fiduciary shall be exempt from the applicability of all or any of the obligations under sub-sections",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "9",
+    "sub_section": "9(5)",
+    "topic": "Processing of personal data of children",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may notify any Data Fiduciary or class of Data Fiduciaries as Significant Data Fiduciary, on the basis of an assessment of such relevant factors as it may determine.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(1)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an individual responsible to the Board of Directors or similar governing body of the Significant Data Fiduciary, based in India, who represents the Significant Data Fiduciary under the provisions of this Act and is the point of contact for the grievance redressal mechanism under the provisions of this Act.",
+    "term": "Data Protection Officer",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an individual or entity appointed to carry out data audit, who shall evaluate the compliance of the Significant Data Fiduciary in accordance with the provisions of this Act.",
+    "term": "independent data auditor",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the obligations and duties of a Significant Data Fiduciary under the Indian legislation, specifically regarding the appointment of a Data Protection Officer, an independent data auditor, and various measures for data protection.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Significant Data Fiduciary shall appoint a Data Protection Officer who shall represent the Significant Data Fiduciary under the provisions of this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "Significant Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Protection Officer appointed by the Significant Data Fiduciary shall be based in India.",
+    "type": "condition",
+    "applies_to": [
+      "Data Protection Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Protection Officer appointed by the Significant Data Fiduciary shall be an individual responsible to the Board of Directors or similar governing body of the Significant Data Fiduciary.",
+    "type": "condition",
+    "applies_to": [
+      "Data Protection Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Protection Officer appointed by the Significant Data Fiduciary shall be the point of contact for the grievance redressal mechanism under the provisions of this Act.",
+    "type": "condition",
+    "applies_to": [
+      "Data Protection Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Significant Data Fiduciary shall appoint an independent data auditor to carry out data audit.",
+    "type": "obligation",
+    "applies_to": [
+      "Significant Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The independent data auditor appointed by the Significant Data Fiduciary shall evaluate the compliance of the Significant Data Fiduciary in accordance with the provisions of this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "independent data auditor"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Significant Data Fiduciary shall undertake periodic Data Protection Impact Assessment.",
+    "type": "obligation",
+    "applies_to": [
+      "Significant Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The periodic Data Protection Impact Assessment shall be a process comprising a description of the rights of Data Principals and the purpose of processing of their personal data, assessment and management of the risk to the rights of the Data Principals, and such other matters regarding such process as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "periodic Data Protection Impact Assessment"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Significant Data Fiduciary shall undertake periodic audit.",
+    "type": "obligation",
+    "applies_to": [
+      "Significant Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Significant Data Fiduciary shall undertake such other measures, consistent with the provisions of this Act, as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "Significant Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Additional obligations of Significant Data Fiduciary",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Principal shall have the right to obtain from the Data Fiduciary to whom she has previously given consent, a summary of personal data which is being processed by such Data Fiduciary and the processing activities undertaken by that Data Fiduciary with respect to such personal data; the identities of all other Data Fiduciaries and Data Processors with whom the personal data has been shared by such Data Fiduciary, along with a description of the personal data so shared; and any other information related to the personal data of such Data Principal and its processing, as may be prescribed.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Right to access information about personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "applies in respect of the sharing of any personal data by the said Data Fiduciary with any other Data Fiduciary authorised by law to obtain such personal data, where such sharing is pursuant to a request made in writing by such other Data Fiduciary for the purpose of prevention or detection or investigation of offences or cyber incidents, or for prosecution or punishment of offences.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Right to access information about personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,— (a) correct the inaccurate or misleading personal data; (b) complete the incomplete personal data; and (c) update the personal data.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person who owns the personal data",
+    "term": "Data Principal",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The entity responsible for the protection of personal data",
+    "term": "Data Fiduciary",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This rule applies to a Data Principal and a Data Fiduciary.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Right to correction and erasure of personal data",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person whose personal data is being processed by a Data Fiduciary or Consent Manager.",
+    "term": "Data Principal",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Right of grievance redressal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall have the right to have readily available means of grievance redressal provided by a Data Fiduciary or Consent Manager in respect of any act or omission of such Data Fiduciary or Consent Manager regarding the performance of its obligations in relation to the personal data of such Data Principal or the exercise of her rights under the provisions of this Act and the rules made thereunder.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Right of grievance redressal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary or Consent Manager shall respond to any grievances referred to in sub-section",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary | Consent Manager"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "13",
+    "sub_section": "13(2)",
+    "topic": "Right of grievance redressal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Data Fiduciaries are subject to a time limit, within which they must respond to requests, as may be prescribed from the date of its receipt.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Right of grievance redressal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Principal shall exhaust the opportunity of redressing her grievance under this section before approaching the Board.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "13",
+    "sub_section": "13(3)",
+    "topic": "Right of grievance redressal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An individual who has the right to nominate another individual to exercise their rights in accordance with the provisions of this Act and the rules made thereunder, in the event of death or incapacity.",
+    "term": "Data Principal",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Right to nominate",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall have the right to nominate another individual to exercise their rights.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Right to nominate",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "inability to exercise the rights of the Data Principal under the provisions of this Act or the rules made thereunder due to unsoundness of mind or infirmity of body",
+    "term": "incapacity",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "14",
+    "sub_section": "14(2)",
+    "topic": "Right to nominate",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Data Principal shall comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "(a) comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act;",
+    "type": "obligation",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "(b) to ensure not to impersonate another person while providing her personal data for a specified purpose;",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "(c) to ensure not to suppress any material information while providing her personal data for any document, unique identifier, proof of identity or proof of address issued by the State or any of its instrumentalities;",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "(d) to ensure not to register a false or frivolous grievance or complaint with a Data Fiduciary or the Board;",
+    "type": "prohibition",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "(e) to furnish only such information as is verifiably authentic, while exercising the right to correction or erasure under the provisions of this Act or the rules made thereunder.",
+    "type": "condition",
+    "applies_to": [
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Duties of Data Principal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, by notification, restrict the transfer of personal data by a Data Fiduciary for processing to such country or territory outside India as may be so notified.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "16",
+    "sub_section": "16(1)",
+    "topic": "Processing of personal data outside India",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section does not restrict the applicability of any law for the time being in force in India that provides for a higher degree of protection for or restriction on transfer of personal data by a Data Fiduciary outside India in relation to any personal data or Data Fiduciary or class thereof.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "16",
+    "sub_section": "16(2)",
+    "topic": "Processing of personal data outside India",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of Chapter II",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(1)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules under sections 8 and Chapter III, and section 16 do not apply in the following cases: (a) processing of personal data is necessary for enforcing any legal right or claim; (b) processing of personal data by any court or tribunal or any other body in India which is entrusted by law with the performance of any judicial or quasi-judicial or regulatory or supervisory function, where such processing is necessary for the performance of such function; (c) processing of personal data in the interest of prevention, detection, investigation or prosecution of any offence or contravention of any law for the time being in force in India; (d) processing of personal data of Data Principals not within the territory of India is processed pursuant to any contract entered into with any person outside the territory of India by any person based in India; (e) the processing is necessary for a scheme of compromise or arrangement or merger or amalgamation of two or more companies or a reconstruction by way of demerger or otherwise of a company, or transfer of undertaking of one or more company to another company, or involving division of one or more companies, approved by a court or tribunal or",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(5)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the meaning assigned to it in sub-sections",
+    "term": "default",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(5)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the meaning assigned to it in sub-sections",
+    "term": "financial institution",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(5)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the processing is for the purpose of ascertaining the financial information and assets and liabilities of any person who has defaulted in payment due on account of a loan or advance taken from a financial institution, subject to such processing being in accordance with the provisions regarding disclosure of information or data in any other law for the time being in force.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(5)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to section 3 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016)",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(14)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Y, a bank, may process the personal data of X, an individual, for ascertaining her financial information and assets and liabilities when X defaults in paying her monthly loan repayment instalment on the date it falls due.",
+    "type": "obligation",
+    "applies_to": [
+      "bank"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(14)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of this Act shall not apply in respect of the processing of personal data— (a) by such instrumentality of the State as the Central Government may notify, in the interests of sovereignty and integrity of India, security of the State, friendly relations with foreign States, 14 maintenance of public order or preventing incitement to any cognizable offence relating to any of these, and the processing by the Central Government of any personal data that such instrumentality may furnish to it; (b) necessary for research, archiving or statistical purposes if the personal data is not to be used to take any decision specific to a Data Principal and such processing is carried on in accordance with such standards as may be prescribed.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(2)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may notify certain Data Fiduciaries or class of Data Fiduciaries, including startups.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(3)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a private limited company or a partnership firm or a limited liability partnership incorporated in India, which is eligible to be and is recognised as such in accordance with the criteria and process notified by the department to which matters relating to startups are allocated in the Central Government.",
+    "term": "startup",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(7)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "processing by the State or any instrumentality of the State",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(4)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 12",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(3)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Section 12 shall not apply.",
+    "type": "prohibition",
+    "applies_to": [
+      "not specified"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(2)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, before expiry of five years from the date of commencement of this Act, by notification, declare that any provision of this Act shall not apply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be specified in the notification.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "17",
+    "sub_section": "17(5)",
+    "topic": "Exemptions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "There shall be established, for the purposes of this Act, a Board to be called the Data Protection Board of India.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "18",
+    "sub_section": "18(1)",
+    "topic": "Establishment of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall be a body corporate with perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract. The Board can sue or be sued by the said name.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "18",
+    "sub_section": "18(2)",
+    "topic": "Establishment of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The headquarters of the Board shall be at such place as the Central Government may notify.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "18",
+    "sub_section": "18(3)",
+    "topic": "Establishment of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall consist of a Chairperson and such number of other Members as the Central Government may notify.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Composition and qualifications for appointment of Chairperson and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and other Members shall be appointed by the Central Government.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "other Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "19",
+    "sub_section": "19(2)",
+    "topic": "Composition and qualifications for appointment of Chairperson and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and other Members shall be a person of ability, integrity and standing who possesses special knowledge or practical experience in the fields of data governance, administration or implementation of laws related to social or consumer protection, dispute resolution, information and communication technology, digital economy, law, regulation or techno-regulation, or in any other field which in the opinion of the Central Government may be useful to the Board.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson | Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "19",
+    "sub_section": "19(3)",
+    "topic": "Composition and qualifications for appointment of Chairperson and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The salary, allowances and other terms and conditions of service of the Chairperson and other Members shall be such as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "other Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "20",
+    "sub_section": "20(1)",
+    "topic": "Salary, allowances payable to and term of office",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "and shall not be varied to their disadvantage after their appointment.",
+    "type": "prohibition",
+    "applies_to": [
+      "Chairperson",
+      "other Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "20",
+    "sub_section": "20(1)",
+    "topic": "Salary, allowances payable to and term of office",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and other Members shall hold office for a term of two years",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "other Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "20",
+    "sub_section": "20(2)",
+    "topic": "Salary, allowances payable to and term of office",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and other Members shall be eligible for re-appointment",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "other Members"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "20",
+    "sub_section": "20(2)",
+    "topic": "Salary, allowances payable to and term of office",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson or any other Member may resign from her office.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(1)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The resignation shall be effective from the date on which the Central Government permits her to relinquish office, or upon expiry of a period of three months from the date of receipt of such notice, or upon a duly appointed successor entering upon her office, or upon the expiry of the term of her office, whichever is earliest.",
+    "type": "obligation",
+    "applies_to": [
+      "The Chairperson | Any other Member"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(1)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A vacancy caused by the resignation or removal or death of the Chairperson or any other Member, or otherwise, shall be filled by fresh appointment in accordance with the provisions of this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson | Member"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(2)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The period of one year from the date on which they cease to hold such office",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(3)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and any other Member shall not accept any employment for a period of one year from the date on which they cease to hold such office, except with the previous approval of the Central Government.",
+    "type": "prohibition",
+    "applies_to": [
+      "Chairperson | other Member"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(3)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson and any other Member shall disclose to the Central Government any subsequent acceptance of employment with any Data Fiduciary against whom proceedings were initiated by or before such Chairperson or other Member.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson | other Member"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "22",
+    "sub_section": "22(3)",
+    "topic": "Resignation by Members and filling of vacancy",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall observe such procedure in regard to the holding of and transaction of business at its meetings, including by digital means.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Proceedings of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The validity of acts and proceedings of the Board is not affected by vacancies, defects in constitution, defects in appointments, or irregularities in procedure that do not affect the merits of the case.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "23",
+    "sub_section": "23(2)",
+    "topic": "Proceedings of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "When the Chairperson is unable to discharge her functions owing to absence, illness or any other cause, the senior-most Member shall discharge the functions of the Chairperson until the date on which the Chairperson resumes her duties.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "senior-most Member"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Proceedings of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson, Members, officers and employees of the Board shall be deemed, when acting or purporting to act in pursuance of provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "25",
+    "sub_section": null,
+    "topic": "Members and officers to be public servants",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the powers of the Chairperson in a Board.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Powers of Chairperson",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson shall exercise general superintendence and giving direction in respect of all administrative matters of the Board.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Powers of Chairperson",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson can authorise any officer of the Board to scrutinise any intimation, complaint, reference or correspondence addressed to the Board.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Powers of Chairperson",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson can authorise performance of any of the functions of the Board and conduct any of its proceedings by an individual Member or groups of Members and to allocate proceedings among them.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Powers of Chairperson",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall exercise and perform the following powers and functions.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the powers of an Adjudicating Officer under the provisions of this Act, including directing remedial or mitigation measures in case of a personal data breach, inquiring into such breaches and imposing penalties as provided.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Adjudicating Officer can direct any urgent remedial or mitigation measures in the event of a personal data breach (a).",
+    "type": "obligation",
+    "applies_to": [
+      "Adjudicating Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Adjudicating Officer can inquire into a personal data breach or a breach in observance by a Data Fiduciary of its obligations in relation to her personal data or the exercise of her rights under the provisions of this Act, on a complaint made by a Data Principal, reference made by the Central Government or State Government, or in compliance of the directions of any court (b).",
+    "type": "obligation",
+    "applies_to": [
+      "Adjudicating Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Adjudicating Officer can inquire into a breach in observance by a Consent Manager of its obligations in relation to her personal data, on a complaint made by a Data Principal (c).",
+    "type": "obligation",
+    "applies_to": [
+      "Adjudicating Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Adjudicating Officer can inquire into a breach of any condition of registration of a Consent Manager, on receipt of an intimation of such breach (d).",
+    "type": "obligation",
+    "applies_to": [
+      "Adjudicating Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Adjudicating Officer can inquire into a reference made by the Central Government (e).",
+    "type": "obligation",
+    "applies_to": [
+      "Adjudicating Officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(6)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An intermediary shall not hide or remove any content that is required to be disclosed under section 37.",
+    "type": "prohibition",
+    "applies_to": [
+      "intermediary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An intermediary may be subject to a penalty as provided in this Act for hiding or removing any content that is required to be disclosed under section 37.",
+    "type": "penalty",
+    "applies_to": [
+      "intermediary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may issue directions to any person for the effective discharge of its functions under this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The person concerned must be given an opportunity to be heard before directions are issued. The person is bound to comply with the directions issued by the Board.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government has the power to modify, suspend, withdraw or cancel a direction issued under this act.",
+    "type": "obligation",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While modifying, suspending, withdrawing or cancelling a direction, the Central Government may impose conditions as it deems fit.",
+    "type": "condition",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Powers and functions of Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a clinical establishment or hospital fails to comply with the provisions of section 27, they must take action in accordance with the provisions of this Act and the rules made thereunder.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(1)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall determine whether there are sufficient grounds to proceed with an inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(3)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may inquire into the affairs of any person to ascertain whether such person is complying with or has complied with the provisions of this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(5)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall conduct an inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(6)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The inquiry shall be conducted following the principles of natural justice.",
+    "type": "condition",
+    "applies_to": [
+      "inquiry"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(6)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall record reasons for its actions during the course of such inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(6)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), in respect of matters relating to— (a) summoning and enforcing the attendance of any person and examining her on oath; (b) receiving evidence of affidavit requiring the discovery and production of documents; (c) inspecting any data, book, document, register, books of account or any other document; and (d) such other matters as may be prescribed.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(7)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board or its officers shall not prevent access to any premises or take into custody any equipment or any item that may adversely affect the day-to-day functioning of a person.",
+    "type": "prohibition",
+    "applies_to": [
+      "Board | its officers"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(8)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may require the services of any police officer or any officer of the Central Government or a State Government to assist it for the purposes of this section.",
+    "type": "obligation",
+    "applies_to": [
+      "officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(9)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall be the duty of every such officer to comply with such requisition.",
+    "type": "obligation",
+    "applies_to": [
+      "officer"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(9)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may issue interim orders during the course of the inquiry if it considers it necessary.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(10)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "At any stage after receipt of a complaint",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(12)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Board is of the opinion that the complaint is false or frivolous, it may issue a warning or impose costs on the complainant.",
+    "type": "prohibition",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "28",
+    "sub_section": "28(12)",
+    "topic": "Procedure to be followed by Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The appeal should be filed within a period of sixty days from the date of receipt of the order or direction appealed against.",
+    "type": "obligation",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(1)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Appellate Tribunal shall send a copy of every order made by it to the Board and to the parties to the appeal.",
+    "type": "obligation",
+    "applies_to": [
+      "Appellate Tribunal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(5)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The appeal must be dealt with expeditiously and endeavour should be made to dispose of the appeal finally within six months from the date on which the appeal is presented.",
+    "type": "obligation",
+    "applies_to": [
+      "appeal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(1)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a clinical establishment or hospital fails to dispose of an appeal within six months, it must provide written reasons for not doing so.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(6)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text pertains to appeals under the specified sections (14A and 16) of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997), and the procedure for dealing with such appeals.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(8)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where an appeal is filed against the orders of the Appellate Tribunal under this Act",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(9)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Appellate Tribunal shall function as a digital office for appeals filed under the provisions of this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "29",
+    "sub_section": "29(10)",
+    "topic": "Appeal to Appellate Tribunal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An order passed by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "30",
+    "sub_section": "30(1)",
+    "topic": "Orders passed by Appellate Tribunal to be executable as decree",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Nothing contained in sub-section is applicable.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "30",
+    "sub_section": "30(2)",
+    "topic": "Orders passed by Appellate Tribunal to be executable as decree",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "31",
+    "sub_section": null,
+    "topic": "Alternate dispute resolution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Board is of the opinion that any complaint may be resolved by mediation, it may direct the parties concerned to attempt resolution of the dispute through such mediation.",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "31",
+    "sub_section": null,
+    "topic": "Alternate dispute resolution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may accept a voluntary undertaking in respect of any matter related to observance of the provisions of this Act from any person at any stage of a proceeding under section 28.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "32",
+    "sub_section": "32(1)",
+    "topic": "Voluntary undertaking",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The acceptance of the voluntary undertaking by the Board shall constitute a bar on proceedings under the provisions of this Act as regards the contents of the voluntary undertaking.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "32",
+    "sub_section": "32(4)",
+    "topic": "Voluntary undertaking",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where a person fails to adhere to any term of the voluntary undertaking accepted by the Board, such breach shall be deemed to be breach of the provisions of this Act",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "32",
+    "sub_section": "32(5)",
+    "topic": "Voluntary undertaking",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board may, after giving such person an opportunity of being heard, proceed in accordance with the provisions of section 33.",
+    "type": "penalty",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "32",
+    "sub_section": "32(5)",
+    "topic": "Voluntary undertaking",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Board determines on conclusion of an inquiry that breach of the provisions of this Act or the rules made thereunder by a person is significant, it may impose such monetary penalty specified in the Schedule.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Penalties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It may impose such monetary penalty specified in the Schedule.",
+    "type": "penalty",
+    "applies_to": [
+      "person"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Penalties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The amount of monetary penalty to be imposed under sub-section",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Penalties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board shall have regard to the following matters:",
+    "type": "obligation",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Penalties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "34",
+    "sub_section": null,
+    "topic": "Crediting sums realised by way of penalties to Consolidated Fund of India",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "All sums realised by way of penalties imposed by the Board under this Act, shall be credited to the Consolidated Fund of India.",
+    "type": "penalty",
+    "applies_to": [
+      "Board"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "34",
+    "sub_section": null,
+    "topic": "Crediting sums realised by way of penalties to Consolidated Fund of India",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No suit, prosecution or other legal proceedings shall lie against the Central Government, the Board, its Chairperson and any Member, officer or employee thereof for anything which is done or intended to be done in good faith under the provisions of this Act or the rules made thereunder.",
+    "type": "prohibition",
+    "applies_to": [
+      "Central Government | Board | Chairperson | Member | officer | employee"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "35",
+    "sub_section": null,
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may require the Board, Data Fiduciary, or intermediary to furnish any information it calls for.",
+    "type": "obligation",
+    "applies_to": [
+      "Board | Data Fiduciary | intermediary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "36",
+    "sub_section": null,
+    "topic": "Power to call for information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every intermediary who receives a direction issued under sub-section",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "37",
+    "sub_section": "37(2)",
+    "topic": "Power of Central Government to issue directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A clinical establishment, hospital, company or individual shall be bound to comply with the same.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital",
+      "company",
+      "individual"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "37",
+    "sub_section": "37(1)",
+    "topic": "Power of Central Government to issue directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the meaning assigned to it in the Information Technology Act, 2000 (21 of 2000)",
+    "term": "computer resource",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "37",
+    "sub_section": "37(3)",
+    "topic": "Power of Central Government to issue directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the meaning assigned to it in the Information Technology Act, 2000 (21 of 2000)",
+    "term": "information",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "37",
+    "sub_section": "37(3)",
+    "topic": "Power of Central Government to issue directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the meaning assigned to it in the Information Technology Act, 2000 (21 of 2000)",
+    "term": "intermediary",
+    "type": "definition",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "37",
+    "sub_section": "37(3)",
+    "topic": "Power of Central Government to issue directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of this Act shall be in addition to and not in derogation of any other law for the time being in force.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "Consistency with other laws",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board is empowered under the provisions of this Act.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "39",
+    "sub_section": null,
+    "topic": "Bar of jurisdiction",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No civil court shall have the jurisdiction to entertain any suit or proceeding in respect of any matter for which the Board is empowered under the provisions of this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "civil court"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "39",
+    "sub_section": null,
+    "topic": "Bar of jurisdiction",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power under the provisions of this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "court",
+      "other authority"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "39",
+    "sub_section": null,
+    "topic": "Bar of jurisdiction",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, by notification, and subject to the condition of previous publication,",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "make rules not inconsistent with the provisions of this Act, to carry out the purposes of this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the notice given by the Data Fiduciary to a Data Principal shall inform her",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 5",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the manner in which the notice given by the Data Fiduciary to a Data Principal shall inform her",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary",
+      "Data Principal"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 5",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope includes the provisions related to the registration of Consent Managers as per section 6.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(8)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(9)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 8",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(8)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 8",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(9)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 9",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Data Protection Impact Assessment",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(4)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Data Fiduciary shall respond to any grievances within a certain period as per section 12.",
+    "type": "obligation",
+    "applies_to": [
+      "Data Fiduciary"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(3)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 13",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 14",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 17",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 20",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the manner of authentication of orders, directions and instruments under sub-section",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope includes the functions, powers and duties of the Board as per section 23. It also covers the terms and conditions of appointment and service of officers and employees of the Board under section 24.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 28",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clause (d) of sub-section",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This refers to section 29 and its related procedures for dealing with an appeal.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 29; (z) any other matter",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "40",
+    "sub_section": "40(8)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made and every notification issued under section 16 and section 42 of this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "41",
+    "sub_section": null,
+    "topic": "Laying of rules and certain notifications",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, by notification, amend the Schedule.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "42",
+    "sub_section": "42(1)",
+    "topic": "Power to amend Schedule",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No such notification shall have the effect of increasing any penalty specified therein to more than twice of what was specified in it when this Act was originally enacted.",
+    "type": "penalty",
+    "applies_to": [
+      "this Act"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "42",
+    "sub_section": "42(1)",
+    "topic": "Power to amend Schedule",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section shall have effect as if enacted in this Act and shall come into force on the date of the notification.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "42",
+    "sub_section": "42(1)",
+    "topic": "Power to amend Schedule",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text refers to the provisions of 'this Act' and the Central Government's authority to make orders in the Official Gazette.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "43",
+    "sub_section": "43(1)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "this Act shall be made after the expiry of three years from the date of its commencement",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "43",
+    "sub_section": "43(1)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.",
+    "type": "obligation",
+    "applies_to": [
+      "order"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "43",
+    "sub_section": "43(3)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to amendments in section 14 of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997), specifically for sub-clauses (i) and (ii). The new sub-clauses include references to the Appellate Tribunal under the Information Technology Act, 2000 (21 of 2000), the Appellate Tribunal under the Airports Economic Regulatory Authority of India Act, 2008 (27 of 2008), and a future Appellate Tribunal under the Digital Personal Data Protection Act, 2023.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(2)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clause (ob) shall be omitted.",
+    "type": "prohibition",
+    "applies_to": [
+      "document"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(2)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(3)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text refers to 'information which relates to personal information'.",
+    "type": "scope",
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Breach of provisions of this Act or rules made Penalty thereunder",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment",
+      "hospital",
+      "company",
+      "individual"
+    ],
+    "law": "The Digital Personal Data Protection Act, 2023",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Amendments to certain Acts",
+    "jurisdiction": "India"
+  }
+]

@@ -1,0 +1,1449 @@
+[
+  {
+    "text": "Any substance specified as poisonous by rule made under Chapter II or Chapter IV 3[or Chapter IVA]",
+    "term": "poisonous substance",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Presumption as to poisonous substances",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall constitute a Board (to be called the Drugs Technical Advisory Board) to advise the Central Government and the State Governments on technical matters arising out of the administration of this Act and to carry out the other functions assigned to it by this Act.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "5",
+    "sub_section": "5(1)",
+    "topic": "The Drugs Technical Advisory Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Board consists of various members, including the Director General of Health Services, Drugs Controller, India, Directors of several laboratories and institutes, President of Medical Council of India, President of Pharmacy Council of India, and others.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "5",
+    "sub_section": "5(2)",
+    "topic": "The Drugs Technical Advisory Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall establish a Central Drugs Laboratory under the control of a Director to carry out the functions entrusted to it by this Act or any rules made under this Chapter.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "6",
+    "sub_section": "6(1)",
+    "topic": "The Central Drugs Laboratory",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Central Government so prescribes, the functions of the Central Drugs Laboratory in respect of any drug or class of drugs shall be carried out at the Central Research Institute, Kasauli, or at any other prescribed Laboratory.",
+    "type": "condition",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "6",
+    "sub_section": "6(1)",
+    "topic": "The Central Drugs Laboratory",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The functions of the Director of the Central Drugs Laboratory in respect of such drug or class of drugs shall be exercised by the Director of that Institute or of that other Laboratory, as the case may be.",
+    "type": "condition",
+    "applies_to": [
+      "Director of the Central Drugs Laboratory"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "6",
+    "sub_section": "6(1)",
+    "topic": "The Central Drugs Laboratory",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to rules prescribed by the Central Government for the functions of the Central Drugs Laboratory, including submission of samples of drugs or cosmetics for analysis or test, forms of the Laboratory’s reports, fees payable, and other necessary or expedient matters.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "6",
+    "sub_section": "6(2)",
+    "topic": "The Central Drugs Laboratory",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The advisory committee constituted by the Central Government may advise the Central Government, the State Governments and the Drugs Technical Advisory Board on any matter tending to secure uniformity throughout India in the administration of this Act.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "The Drugs Consultative Committee",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Drugs Consultative Committee shall consist of two representatives of the Central Government to be nominated by that Government and one representative of each State Government to be nominated by the State Government concerned.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "The Drugs Consultative Committee",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The sections 5 and 7 do not apply to Ayurvedic, Siddha or Unani drugs.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "7",
+    "sub_section": "7(3)",
+    "topic": "The Drugs Consultative Committee",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "in relation to a drug, that the drug complies with the standard set out in 6[the Second Schedule], and in relation to a cosmetic, that the cosmetic complies with such standard as may be prescribed.",
+    "term": "standard quality",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A schedule that may be added to or amended by the Central Government for the purposes of this Chapter.",
+    "term": "The Second Schedule",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Drugs that are either coloured, coated, powdered or polished in a way that damage is concealed, made to appear of better or greater therapeutic value than they really are; not labelled in the prescribed manner; or have a label, container, or anything accompanying the drug that bears any statement, design, or device which makes any false claim for the drug or which is false or misleading in any particular.",
+    "term": "misbranded drugs",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Drugs that consist, in whole or in part, of any filthy, putrid, or decomposed substance.",
+    "term": "adulterated drugs",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Chapter",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purposes of this Chapter, a drug shall be deemed to be misbranded— (a) if it is so coloured, coated, powdered or polished that damage is concealed or if it is made to appear of better or greater therapeutic value than it really is; or (b) if it is not labelled in the prescribed manner; or (c) if its label or container or anything accompanying the drug bears any statement, design or device which makes any false claim for the drug or which is false or misleading in any particular.",
+    "type": "prohibition",
+    "applies_to": [
+      "drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purposes of this Chapter, a drug shall be deemed to be adulterated,— (a) if it consists, in whole or in part, of any filthy, putrid or decomposed substance.",
+    "type": "prohibition",
+    "applies_to": [
+      "drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Standards of quality",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "From such date1 as may be fixed by the Central Government by notification in the Official Gazette in this behalf",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No person shall import—",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "1. 1st April, 1947, for cls. (a), (b), (c), (e) and (f) and 1st April, 1949, for cl. (d), see notification No. 18-12-46-D-I, dated the 11th February, 1947, Gazette of India, 1947, Pt. I, p 189 as amended by notification No. F-1-2/48-D(I), dated the 29th September, 1948, 1st April, 1953, for the State of H.P., Bilaspur, Kutch, Bhopal, Tripura, Vindhya Pradesh and Manipur vide notification No. S.R.O. 666, dated the 30th March, 1953, Gazette of India, 1953, Pt. II, Sec. 3, p. 451.",
+    "type": "obligation",
+    "applies_to": [
+      "import"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "10 (a) any drug or cosmetic which is not of standard quality;",
+    "type": "prohibition",
+    "applies_to": [
+      "drug",
+      "cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "2[(b) any misbranded drug or misbranded or spurious cosmetics];",
+    "type": "prohibition",
+    "applies_to": [
+      "misbranded drug",
+      "misbranded or spurious cosmetics"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "4[(bb) any adulterated or spurious;] drug;",
+    "type": "prohibition",
+    "applies_to": [
+      "adulterated or spurious drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "6[(d) any patent or proprietary medicine, unless there is displayed in the prescribed manner on the label or container thereof 7[the true formula or list of active ingredients contained in it together with the quantities thereof];]",
+    "type": "condition",
+    "applies_to": [
+      "patent or proprietary medicine"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "10 (c) any drug or cosmetic for the import of which a licence is prescribed, otherwise than under, in accordance with, such licence;",
+    "type": "prohibition",
+    "applies_to": [
+      "drug",
+      "cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not explicitly defined in the text.",
+    "term": "disease or ailment",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any cosmetic containing any ingredient which may render it unsafe or harmful for use under the directions indicated or recommended.",
+    "term": "cosmetic",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section shall not apply to the import, subject to prescribed conditions, of small quantities of any drug for the purpose of examination, test or analysis or for personal use. The Central Government may, after consultation with the Board, by notification in the Official Gazette, permit, subject to any conditions specified in the notification, the import of any drug or class of drugs not being of standard quality.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any statement, design or device accompanying a drug or cosmetic purports or claims to cure or mitigate any disease or ailment as may be prescribed. Any cosmetic containing any ingredient which may render it unsafe or harmful for use under the directions indicated or recommended is prohibited by rule made under this Chapter.",
+    "type": "prohibition",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The import of any drug or cosmetic is prohibited unless it is not the import of which is prohibited by rule made under this Chapter.",
+    "type": "condition",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the power of the Government to prohibit the import of a drug or cosmetic if it does not have the therapeutic value claimed for it, contains ingredients in quantities without therapeutic justification, and is in the public interest.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "10",
+    "sub_section": null,
+    "topic": "Prohibition of import of certain drugs or cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The law for the time being in force relating to sea customs and to goods, the import of which is pro- hibited by section 18 of the Sea Customs Act, 187810 (18 of 1878) shall apply in respect of drugs and cosmetics the import of which is prohibited under this Chapter.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Application of law relating to sea customs and powers of Customs officers",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may make rules for the purpose of giving effect to the provisions of this Chapter.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "small quantities of drugs, the import of which is otherwise prohibited under this Chapter",
+    "term": "drug",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the places at which drugs may be imported",
+    "term": "places",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The import of small quantities of drugs for the purpose of examination, test or analysis or for personal use is allowed.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Places at which drugs may be imported are prescribed and their import is prohibited at any other place.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "offence punishable under section 13",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "14",
+    "sub_section": null,
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the consignment of the drugs or cosmetics in respect of which the offence has been committed shall be liable to confiscation.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "14",
+    "sub_section": null,
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An offence punishable under section 13 is not to be tried by any Court inferior to that of a Metropolitan Magistrate or of a Judicial Magistrate of the first class.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Jurisdiction",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "From such date as may be fixed by the State Government by notification in the Official Gazette in this behalf",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No person shall himself or by any other person on his behalf— (a) manufacture for sale or for distribution, or sell, or stock or exhibit or offer for sale, or distribute—",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "4[(i) any drug which is not of a standard quality, or is misbranded, adulterated or spurious; 5[(ii) any cosmetic which is not of a standard quality or is misbranded, adulterated or spurious;]]",
+    "type": "prohibition",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "6[(iii) any patent or proprietary medicine, unless there is displayed in the prescribed manner on the label or container thereof 3[the true formula or list of active ingredients contained in it together with the quantities thereof];]",
+    "type": "condition",
+    "applies_to": [
+      "patent or proprietary medicine"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "4[(iv) any drug which by means of any statement design or device accompanying it or by any other means, purports or claims 7[to prevent, cure or mitigate] any such disease or ailment, or to have any such other effect as may be prescribed;]",
+    "type": "prohibition",
+    "applies_to": [
+      "drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "8[(v) any cosmetic containing any ingredient which may render it unsafe or harmful for use under the directions indicated or recommended; (vi) any drug or cosmetic in contravention of any of the provisions of this Chapter or any",
+    "type": "prohibition",
+    "applies_to": [
+      "cosmetic | drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section does not apply to the manufacture, subject to prescribed conditions, of small quantities of any drug for the purpose of examination, test or analysis.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, after consultation with the Board, by notification in the Official Gazette, permit, subject to any conditions specified in the notification, the manufacture for sale or for distribution, sale, stocking or exhibiting or offering for sale or distribution of any drug or class of drugs not being of standard quality.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It is prohibited to sell, stock, exhibit, offer for sale, or distribute any drug or cosmetic which has been imported or manufactured in contravention of any provisions of this Act or any rule made thereunder.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Manufacture for sale, distribution, sell, stock, exhibit, offer for sale or distribute any drug or cosmetic can only be done under and in accordance with the conditions of a license issued for such purpose under this Chapter.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The manufacture, sale, stocking, exhibiting or offering for sale or distribution of any drug or class of drugs not being of standard quality is permitted by the Central Government under certain conditions.",
+    "type": "exception",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Prohibition of manufacture and sale of certain drugs and cosmetics",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section provides an exception to the defence in a prosecution under this Chapter.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Pleas",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall be no defence in a prosecution under this Chapter to prove merely that the accused was ignorant of the nature, substance or quality of the drug (or cosmetic) in respect of which the offence has been committed or of the circumstances of its manufacture or import.",
+    "type": "prohibition",
+    "applies_to": [
+      "accused"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Pleas",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope applies only for section 18, and it excludes a drug or cosmetic from being deemed misbranded, adulterated, spurious, or below standard quality based on the following conditions: (a) addition of innocuous substances required for manufacture or preparation as an article of commerce in a state fit for carriage or consumption, not to increase bulk, weight, or measure or conceal inferior quality or other defects; (b) unavoidable intermixture of extraneous substance during the process of manufacture, preparation, or conveyance.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "19",
+    "sub_section": "19(2)",
+    "topic": "Pleas",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person, not being the manufacturer of a drug or cosmetic or his agent for the distribution thereof, shall not be liable for a contravention of section 18",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "19",
+    "sub_section": "19(3)",
+    "topic": "Pleas",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not be liable for a contravention of section 18 if he proves— (a) that he acquired the drug or cosmetic from a duly licensed manufacturer, distributor or dealer thereof; (b) that he did not know and could not, with reasonable diligence, have ascertained that the drug or cosmetic in any way contravened the provisions of that section; and (c) that the drug or cosmetic, while in his possession, was properly stored and remained in the same state as when he acquired it.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "19",
+    "sub_section": "19(3)",
+    "topic": "Pleas",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government or a State Government may appoint Inspectors for such areas as may be assigned to them.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The powers which may be exercised by an Inspector and the duties which may be performed by him, are in relation to certain drugs or classes of drugs or cosmetics or classes of cosmetics. The conditions, limitations or restrictions under which these powers and duties may be exercised or performed are prescribed.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(2)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No person who has any financial interest in the import, manufacture or sale of drugs or cosmetics shall be appointed to be an Inspector under this section.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(3)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860), and shall be officially subordinate to such authority as the Government appointing him may specify in this behalf.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(4)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an Inspector may, within the local limits of the area for which he is appointed,",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "inspect any premises wherein any drug or cosmetic is being manufactured and the means employed for standardising and testing the drug or cosmetic;",
+    "type": "obligation",
+    "applies_to": [
+      "premises"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "inspect any premises wherein any drug or cosmetic is being sold, or stocked or exhibited or offered for sale, or distributed;",
+    "type": "obligation",
+    "applies_to": [
+      "premises"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An Inspector shall tender the fair price of any sample of a drug or cosmetic taken under this Chapter and may require a written acknowledgment therefor.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the stock of any drug or cosmetic is refused or seized under clause (c) of section 22, a receipt shall be tendered.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the procedure for an Inspector taking a sample of a drug or cosmetic.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An Inspector shall intimate the purpose of taking a sample in writing, divide it into four portions (or three if from manufacturing premises), seal and mark each portion, and allow the person to add their own seal and mark.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the sample is taken from manufacturing premises, it shall be divided into three portions instead of four.",
+    "type": "condition",
+    "applies_to": [
+      "sample taken from manufacturing premises"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the drug or cosmetic is made up in small containers and is likely to deteriorate or be damaged by exposure, the Inspector may take three or four of the said containers instead of dividing a sample.",
+    "type": "exception",
+    "applies_to": [
+      "drug or cosmetic that is likely to deteriorate or be damaged"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the procedure for handling a sample taken by an Inspector in relation to a drug or cosmetic.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(4)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Inspector shall restore one portion of a sample to the person from whom it was taken.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(4)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Inspector shall send one portion or container of the sample to the Government Analyst for test or analysis.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(4)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Inspector shall produce one portion or container of the sample to the Court before which proceedings are instituted in respect of the drug or cosmetic.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(4)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a third portion was taken, it shall be sent to the person whose name, address and other particulars have been disclosed under section 18A.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(4)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to actions taken by an Inspector under clause (c) of section 22, and its applicability is not explicitly stated.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(5)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an Inspector takes action under clause (c) of section 22 and ascertains that the drug or cosmetic does not contravene any provisions of section 18, he shall revoke the order passed under the said clause or take necessary actions for the return of seized stock.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(5)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Inspector seizes the stock of the drug or cosmetic, he shall inform a Judicial Magistrate and take orders as to the custody thereof.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(5)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the alleged contravention can be remedied by the possessor of the drug or cosmetic, and the Inspector is satisfied that the defect has been remedied, he shall revoke his order under the said clause.",
+    "type": "condition",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(5)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person who is in possession of a dead body shall inform a Judicial Magistrate and take his orders as to the custody thereof.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Procedure of Inspectors",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Government Analyst to whom a sample of any drug or cosmetic has been submitted for test or analysis under sub-section",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(1)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A clinical establishment or hospital must deliver a signed report in triplicate in the prescribed form to the Inspector submitting it.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Inspector on receipt thereof shall deliver one copy of the report to the person from whom the sample was taken.",
+    "type": "obligation",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(2)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any document purporting to be a report signed by a Government Analyst under this Chapter shall be evidence of the facts stated therein, and such evidence shall be conclusive unless the person from whom the sample was taken or the person whose name, address and other particulars have been disclosed under section 18A has, within twenty-eight days of the receipt of a copy of the report, notified in writing the Inspector or the Court before which any proceedings in respect of the sample are pending that he intends to adduce evidence in controversion of the report.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(3)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The sample has not been previously tested or analyzed in the Central Drugs Laboratory.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The test or analysis results reported by the Director of the Central Drugs Laboratory are conclusive evidence of the facts stated therein.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a sample is to be sent for test or analysis, it must be sent to the specified Laboratory. The Laboratory shall make the test or analysis and report the result in writing signed by or under the authority of the Director.",
+    "type": "obligation",
+    "applies_to": [
+      "sample"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The complainant or accused shall pay a fine as directed by the Court.",
+    "type": "obligation",
+    "applies_to": [
+      "complainant",
+      "accused"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The payment to be made by the complainant or accused is a fine, which will be directed by the Court.",
+    "type": "penalty",
+    "applies_to": [
+      "complainant",
+      "accused"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "Reports of Government Analysts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purposes of this section and section 32, a Government Analyst is not explicitly defined but can be inferred as an individual or entity authorized to perform tests or analyses on drugs or cosmetics.",
+    "term": "Government Analyst",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Purchaser of drug or cosmetic enabled to obtain test or analysis",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A voluntary consumer association registered under the Companies Act, 1956 (1 of 1956) or any other law for the time being in force.",
+    "term": "recognised consumer association",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Purchaser of drug or cosmetic enabled to obtain test or analysis",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section applies to any person and recognised consumer associations. The person may or may not be a member of the association.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Purchaser of drug or cosmetic enabled to obtain test or analysis",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any person or recognised consumer association can apply in the prescribed manner and on payment of the prescribed fee to submit a drug or cosmetic purchased by them for test or analysis to a Government Analyst.",
+    "type": "obligation",
+    "applies_to": [
+      "person | recognised consumer association"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Purchaser of drug or cosmetic enabled to obtain test or analysis",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The person or recognised consumer association is entitled to receive a report of such test or analysis signed by the Government Analyst.",
+    "type": "obligation",
+    "applies_to": [
+      "person | recognised consumer association"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Purchaser of drug or cosmetic enabled to obtain test or analysis",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Chapter applies to any person convicted under it for contravening any provision of this Chapter or any rule made thereunder.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The stock of the drug (or cosmetic) in respect of which the contravention has been made shall be liable to confiscation.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If such contravention is in respect of— (i) manufacture of any drug deemed to be misbranded under section 17, adulterated under section 17A or spurious under section 17B; or (ii) manufacture for sale, or for distribution, sale, or stocking, or exhibiting or offering for sale, or distribution of any drug without a valid licence as required under clause (c) of section 18, any implements or machinery used in such manufacture, sale or distribution and any receptacles packages or coverings in which such drug is contained and the animals, vehicles, vessels or other conveyances used in carrying such drug shall also be liable to confiscation.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The stock of the drug (or cosmetic) in respect of which the contravention has been made shall be liable to confiscation and if such contravention is in respect of— (i) manufacture of any drug deemed to be misbranded under section 17, adulterated under section 17A or spurious under section 17B; or (ii) manufacture for sale, or for distribution, sale, or stocking, or exhibiting or offering for sale, or distribution of any drug without a valid licence as required under clause (c) of section 18, any implements or machinery used in such manufacture, sale or distribution and any receptacles packages or coverings in which such drug is contained and the animals, vehicles, vessels or other conveyances used in carrying such drug shall also be liable to confiscation.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Without prejudice to the provisions contained in sub-section",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(2)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of this Chapter except those contained in section 31 shall apply in relation to the manufacture, sale or distribution of drugs by any department of Government as they apply in relation to the manufacture, sale or distribution of drugs by any other person.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Court is satisfied that the drug or cosmetic is not of standard quality or is a misbranded, adulterated or spurious drug or misbranded or spurious cosmetic, such drug or, as the case may be, such cosmetic shall be liable to confiscation.",
+    "type": "prohibition",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the Court is satisfied that the drug or cosmetic is not of standard quality or is a misbranded, adulterated or spurious drug or misbranded or spurious cosmetic, such drug or, as the case may be, such cosmetic shall be liable to confiscation.",
+    "type": "penalty",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "31",
+    "sub_section": "31(1)",
+    "topic": "Confiscation",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may make rules for the purpose of giving effect to the provisions of this Chapter.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may apply to the establishment of laboratories for testing and analyzing drugs or cosmetics, prescribe the qualifications and duties of Government Analysts and Inspectors, prescribe methods of test or analysis, prescribe units or methods of standardisation for biological and organometallic compounds, prescribe the forms of licenses for the manufacture for sale or distribution, for the sale and for the distribution of drugs or any specified drug or class of drugs or of cosmetics or any specified cosmetic or class of cosmetics.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may provide for the qualifications and duties of Government Analysts.",
+    "type": "obligation",
+    "applies_to": [
+      "Government Analysts"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may prescribe the methods of test or analysis to be employed in determining whether a drug or cosmetic is of standard quality.",
+    "type": "obligation",
+    "applies_to": [
+      "drug | cosmetic"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may prescribe, in respect of biological and organometallic compounds, the units or methods of standardisation.",
+    "type": "obligation",
+    "applies_to": [
+      "biological and organometallic compounds"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may prescribe the forms of licenses for the manufacture for sale or distribution, for the sale and for the distribution of drugs or any specified drug or class of drugs or of cosmetics or any specified cosmetic or class of cosmetics.",
+    "type": "obligation",
+    "applies_to": [
+      "manufacture for sale or distribution | sale | distribution | drug | any specified drug or class of drugs | cosmetics | any specified cosmetic or class of cosmetics"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The rules may prescribe the conditions subject to which such licences may be issued.",
+    "type": "condition",
+    "applies_to": [
+      "licences"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority empowered to issue the same [licenses] must have the qualifications specified.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Chapter and the rules made thereunder are applicable. Violation or non-compliance with any provision can lead to cancellation or suspension of licenses.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Records, registers or other documents must be kept and maintained under section 18B.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Fees for the inspection of premises where any drug or cosmetic is being or is proposed to be manufactured must be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The manner in which copies are to be certified under sub-section (2A) of section 22 must be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | company"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Drugs may not purport or claim to prevent cure or mitigate any diseases or ailments. Other effects that drugs may not purport or claim to have must also be specified.",
+    "type": "prohibition",
+    "applies_to": [
+      "drug"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where an offence under this Act has been committed by a company",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every person who at the time the offence was committed, was in charge of and was responsible to the company for the conduct of the business of the company, as well as the company shall be deemed to be guilty of the offence",
+    "type": "obligation",
+    "applies_to": [
+      "company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+    "type": "exception",
+    "applies_to": [
+      "company | individual"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall be liable to be proceeded against and punished accordingly",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Nothing contained in sub-section is applicable.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(2)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a body corporate, and includes a firm or other association of individuals",
+    "term": "company",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "in relation to a firm means a partner in the firm",
+    "term": "director",
+    "type": "definition",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section applies to offences under this Act committed by a company, and where an offence has been committed by any department of Government, such authority as is specified by the Central Government to be in charge of manufacture, sale, or distribution of drugs or where no authority is specified, the head of the department.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+    "type": "prohibition",
+    "applies_to": [
+      "company | director | manager | secretary | other officer"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where an offence under Chapter IV or Chapter IVA has been committed by any department of Government, such authority as is specified by the Central Government to be in charge of manufacture, sale, or distribution of drugs or where no authority is specified, the head of the department shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.",
+    "type": "prohibition",
+    "applies_to": [
+      "Government department | authority in charge of manufacture, sale, or distribution of drugs | head of the department"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text pertains to penalties for offences committed under the Act and rules made thereunder.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An Inspector exercising powers under this Act or the rules made thereunder shall not search any place, vehicle, vessel or other conveyance without reasonable ground of suspicion.",
+    "type": "prohibition",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An Inspector exercising powers under this Act or the rules made thereunder shall not vexatiously and unnecessarily search any person.",
+    "type": "prohibition",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An Inspector exercising powers under this Act or the rules made thereunder shall not vexatiously and unnecessarily seize any drug or cosmetic, or any substance or article, or any record, register, document or other material object.",
+    "type": "prohibition",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any Inspector who violates the rules mentioned above is subject to punishment provided in Chapter IV or Chapter IVA.",
+    "type": "penalty",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "5[34AA. Penalty for vexatious search or seizure.]",
+    "type": "penalty",
+    "applies_to": [
+      "Inspector"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Offences by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If any person is convicted of an offence under this Act",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "35",
+    "sub_section": "35(1)",
+    "topic": "Publication of sentences passed under this Act",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Court before which the conviction takes place shall, on application made to it by the Inspector cause the offender’s name, place of residence, the offence of which he has been convicted and the penalty which has been inflicted upon him, to be published at the expense of such person in such newspapers or in such other manner as the Court may direct.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "35",
+    "sub_section": "35(1)",
+    "topic": "Publication of sentences passed under this Act",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The expenses of such publication shall be deemed to form part of the costs relating to the conviction and shall be recoverable in the same manner as those costs are recoverable.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "35",
+    "sub_section": "35(2)",
+    "topic": "Publication of sentences passed under this Act",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made under this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions.",
+    "type": "scope",
+    "law": "THE DRUGS AND COSMETICS ACT, 1940",
+    "section": "37",
+    "sub_section": null,
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  }
+]

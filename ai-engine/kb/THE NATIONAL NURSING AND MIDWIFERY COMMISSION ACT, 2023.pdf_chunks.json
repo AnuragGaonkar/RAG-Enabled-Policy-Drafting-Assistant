@@ -1,0 +1,3230 @@
+[
+  {
+    "text": "This Act may be called the National Nursing and Midwifery Commission Act, 2023.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act will come into force on a date appointed by the Central Government, which may be different for different provisions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10, sub-section 6 of section 12",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(2)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a member of the health team, who has acquired the recognised qualification and is granted licence to practice as midwifery associate by the National Nursing and Midwifery Commission, who— (i) assists doctors or nurse practitioners in midwifery in the delivery of babies; and (ii) provides care during pregnancy, labour and postpartum period and instruct parents in baby care as per the scope of practice specified by the National Nursing and Midwifery Commission",
+    "term": "midwifery associate",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who has obtained the recognised basic or advance qualification and is granted licence to practice by the National Nursing and Midwifery Commission",
+    "term": "midwifery professional",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the National Nursing and Midwifery Commission constituted under section 3",
+    "term": "National Commission",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Indian Nurses and Midwives' Register maintained by the Nursing and Midwifery Ethics and Registration Board under section 25",
+    "term": "National Register",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a notification published in the Gazette of India or the Official Gazette of a State, as the case may be, and the expression ‘notify’ with its grammatical variation and cognate expressions shall be construed accordingly",
+    "term": "notification",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "",
+    "term": "nurse",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who has completed a formally recognised programme of basic, generalised nursing education and is granted licence to practice nursing by the National Nursing and Midwifery Commission and demonstrates competency in the practice of nursing.",
+    "term": "healthcare professional",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a licensed nurse who has completed a formally recognised advanced education and training programme, acquired the requisite qualification, and is granted licence to practice by the National Commission. This person demonstrates clinical competencies for the scope of practice, complex decision making, and have expert knowledge in the area of specialisation.",
+    "term": "nurse practitioner",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a licensed nurse who has completed a formally recognised advanced education and training programme in midwifery, acquired the requisite qualification, and is granted licence to practice by the National Commission. This person demonstrates clinical competency for the scope of practice, complex decision making, and have expert knowledge in the area of specialisation.",
+    "term": "nurse practitioner in midwifery",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the autonomous and collaborative care of individuals of all ages, families, groups and communities, sick or well. This includes the promotion of health, prevention of illness, care of physically ill, mentally ill, disabled and",
+    "term": "nursing",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not explicitly provided in the text.",
+    "term": "healthcare teaching",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not explicitly provided in the text.",
+    "term": "additional key nursing roles",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board constituted under clause (b) of sub-section",
+    "term": "Nursing and Midwifery Assessment and Rating Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(5)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Nursing and Midwifery Ethics and Registration Board constituted under clause (c) of sub-section",
+    "term": "Nursing and Midwifery Ethics and Registration Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Not provided.",
+    "term": "section 11",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An educational and training institution or a research institution within India, recognised under this Act, which grants diploma or undergraduate or postgraduate or any other post degree diploma or certificate in nursing and midwifery, and includes affiliated colleges and deemed to be Universities.",
+    "term": "nursing and midwifery institution",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any nursing or midwifery professional, who is the Dean of a nursing educational institution, or Principal or Vice-Principal of a college of nursing, or Nursing Superintendent, or Chief Nursing Officer of the Nursing and Midwifery Department, in any institution or healthcare facility and possessing such qualifications and experience as may be prescribed.",
+    "term": "nursing and midwifery leader",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Undergraduate and Postgraduate Education Board constituted under clause (a) of sub-section",
+    "term": "Nursing and Midwifery Undergraduate and Postgraduate Education Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a member of the health team, who has acquired the recognised qualification and is granted licence to practice as nursing associate by the National Commission, who provides care for the sick and injured including those in need of nursing care in varied health settings within his authorised scope of practice",
+    "term": "nursing associate",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a nurse registered with the National Commission, having basic or advance qualification and includes a nurse practitioner in any speciality",
+    "term": "nursing professional",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "prescribed by rules made under this Act",
+    "term": "prescribed",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the level of courses such as diploma, undergraduate degree, postgraduate degree and higher qualification including certification courses, inclusive of the specified curriculum of such courses or programmes",
+    "term": "qualification",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a nursing and midwifery qualification recognised under section 28 or section 29 or section 32, as the case may be",
+    "term": "recognised nursing and midwifery qualification",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "any associate or professional in nursing and midwifery who is registered with any of the State Commissions or, as the case may be, the National Commission under section 25",
+    "term": "registered professional",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the regulations made by the National Commission under section 52",
+    "term": "regulations",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the State",
+    "term": "State Commission",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the State Register for Nursing Professionals and Midwifery Professionals or the State Register for Nurse Associates and Midwifery Associates, maintained by State Commission under section 25",
+    "term": "State Register",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "has the same meaning as assigned to it in clause (f) of section 2 of the University Grants Commission Act, 1956 and includes an institution declared to be deemed University under section 3 of that Act.",
+    "term": "University",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "2",
+    "sub_section": "2(1)",
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall constitute a Commission known as the National Nursing and Midwifery Commission with effect from such date as it may, by notification, appoint.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "3",
+    "sub_section": "3(1)",
+    "topic": "National Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission is a body corporate with perpetual succession and a common seal, having power to acquire, hold and dispose of property, both movable and immovable, and to contract.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "National Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The head office of the National Commission shall be at New Delhi.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "National Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person having outstanding ability, proven administrative capacity and integrity and possessing a postgraduate degree in nursing and midwifery profession from any University with experience of not less than twenty years in the field of nursing and midwifery, out of which at least ten years shall be as a nursing and midwifery leader, to be appointed by the Central Government",
+    "term": "Chairperson",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Composition of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Members of Autonomous Boards constituted under section 11 are defined by the following categories: ex officio members, members from each of the six zones, and six nursing members of eminence.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Composition of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the composition of a committee for nursing education. The members include representatives from State Governments, Union territories, nursing and midwifery professionals, charitable institutions engaged in nursing and midwifery education or services, and a person of eminence appointed by the Central Government.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Composition of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the removal of the Chairperson or any other Member of the National Commission under certain circumstances.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Removal of Chairperson or Member of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may remove from office the Chairperson or any other Member of the National Commission if (a) they have been adjudged insolvent, (b) they have been convicted of an offence involving moral turpitude, (c) they have become physically or mentally incapable of acting as a Member, (d) they are of unsound mind and have been so declared by a competent court, (e) they have acquired financial or other interests likely to affect prejudicially their functions as a Member, or (f) they have misused their position to such an extent that their continuance in office is prejudicial to the public interest.",
+    "type": "prohibition",
+    "applies_to": [
+      "Chairperson | Member of the National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Removal of Chairperson or Member of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Member shall not be removed under clauses (e) and (f) of sub-section",
+    "type": "prohibition",
+    "applies_to": [
+      "Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "Removal of Chairperson or Member of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not deny a hearing unless he has been given a reasonable opportunity of being heard.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Removal of Chairperson or Member of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "There shall be a secretariat for the National Commission",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary of the secretariat shall be appointed by the Central Government in accordance with the provisions of section 5.",
+    "type": "obligation",
+    "applies_to": [
+      "Secretary"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary of the National Commission shall be a person",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary shall hold the office for a term of four years.",
+    "type": "obligation",
+    "applies_to": [
+      "Secretary"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(3)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary shall not be eligible for any extension or reappointment.",
+    "type": "prohibition",
+    "applies_to": [
+      "Secretary"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(3)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary shall also be the Member Secretary of each of the Autonomous Boards constituted under section 11.",
+    "type": "obligation",
+    "applies_to": [
+      "Secretary"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(4)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Secretary shall discharge such functions of the National Commission and that of each of the Autonomous Boards constituted under section 11, as may be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "Secretary"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may appoint officers and other employees of the National Commission for the optimum discharge of its functions under this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(6)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The salaries and allowances payable to and other terms and conditions of service of the Secretary, officers and other employees of the National Commission shall be such, as may be prescribed.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(7)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may engage experts, consultants and professionals who have special knowledge of, and experience in such fields as nursing and midwifery education, public health nursing, management, health economics, quality assurance, patient advocacy, nursing research, science and technology, administration, finance, information technology, statistics, nursing informatics, accounts and law.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(8)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may invite experts and domain specialists from foreign countries to the meetings of the National Commission.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "8",
+    "sub_section": "8(9)",
+    "topic": "Secretary and other employees of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall meet at least once in every quarter.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(1)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson shall preside over the meetings of the National Commission.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(2)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If for any reason the Chairperson is unable to attend such meeting, any other Member being the President of an Autonomous Board, as may be nominated by the Chairperson, shall preside over that meeting.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson",
+      "Member",
+      "President of an Autonomous Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(2)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The procedure to be followed at the meetings of the National Commission is otherwise provided by regulations.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "One-half of the total number of Members of the National Commission including the Chairperson shall constitute the quorum at the meeting of the National Commission.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "All the acts of the National Commission shall be decided by a majority of the Members, present and voting.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "In the event of equality of votes, the Chairperson, or in his absence, the President of the Autonomous Board nominated under sub-section shall have a casting vote.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(3)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The person presiding over a meeting of the Board or Committee shall have the casting vote.",
+    "type": "obligation",
+    "applies_to": [
+      "person presiding over a meeting"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "9",
+    "sub_section": "9(2)",
+    "topic": "Meetings of National Commission, administration, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall take all such steps as it may think fit for ensuring coordinated and integrated development of education and maintenance of the standards of delivery of services, with periodic revisions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(1)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may make regulations for the purposes of performing the following functions:",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to frame policies and regulate standards for the governance of nursing and midwifery education and training;",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to regulate nursing and midwifery institutions, researches, professionals and associates;",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to identify and regulate any other category of nursing and midwifery profession;",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to provide basic standards of education, physical and instructional facilities, assessment, examination, training, research, continuing professional education and maximum tuition fee payable in respect of various categories;",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to provide standards for nursing and midwifery faculty and clinical facility in teaching institutions;",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to provide for a uniform mechanism for admission into the nursing and midwifery institutions at various levels.",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the regulation of nursing and midwifery professionals, enrolment in the National Register or State Register, granting licence to practice as a nursing and midwifery professional, collaboration with industry and other institutions, use of cutting-edge technology and hybrid education, integration of soft skills and elective courses in the curriculum, assessment of nursing and midwifery requirements in healthcare, career development pathways for all nursing and midwifery related cadres, ensuring policies and codes to ensure observance of professional ethics, promoting ethical conduct during the provision of care by nursing and midwifery professionals, and proper functioning of the National Commission, the Autonomous Boards, the Advisory Council.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall collaborate with industry and other institutions",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery professionals"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall integrate soft skills and elective courses in the curriculum of nursing and midwifery qualifications",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery professionals"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall assess the nursing and midwifery requirements in healthcare",
+    "type": "obligation",
+    "applies_to": [
+      "the text"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall provide mechanisms for career development pathways for all nursing and midwifery related cadres",
+    "type": "obligation",
+    "applies_to": [
+      "the text"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall ensure policies and codes to ensure observance of professional ethics in nursing and midwifery profession",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery professionals"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall promote ethical conduct during the provision of care by nursing and midwifery professionals",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery professionals"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall promote, co-ordinate and frame guidelines and lay down policies for the proper functioning of the National Commission, the Autonomous Boards, the Advisory Council",
+    "type": "obligation",
+    "applies_to": [
+      "the text"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Commissions are responsible for ensuring coordination among the Autonomous Boards, taking necessary measures to ensure compliance of guidelines and regulations under this Act, exercising appellate jurisdiction with respect to decisions of Autonomous Boards, and performing other functions as prescribed.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may delegate such of its functions to the Autonomous Boards as it may deem necessary.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(3)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall, at least once a year, hold a meeting with the National Medical Commission, Pharmacy Council of India, National Commission for Indian System of Medicine, National Commission for Homoeopathy and National Commission for Allied and Healthcare Professions, or the corresponding National Regulator for regulating the said professions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(4)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every order and decision of the National Commission shall be authenticated by the signature of its Secretary.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(5)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may constitute sub-committees and delegate such of its powers to such sub-committees as may be necessary to enable them to accomplish specific tasks. CHAPTER III AUTONOMOUS BOARDS",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "10",
+    "sub_section": "10(7)",
+    "topic": "Powers and functions of National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall, by notification, constitute the following Autonomous Boards, under the overall supervision of the National Commission, to perform the functions assigned to such Boards under this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every Autonomous Board referred to in sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "11",
+    "sub_section": "11(2)",
+    "topic": "Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term 'autonomous body' refers to a body that carries out its functions under the specified Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A clinical establishment, hospital, company, or individual shall be an autonomous body and carry out its functions in such manner as may be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital",
+      "company",
+      "individual"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "11",
+    "sub_section": "11(1)",
+    "topic": "Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Undergraduate and Postgraduate Education Board shall have not more than two whole-time Members and not more than two part-time Members other than a President.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Undergraduate and Postgraduate Education Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the appointment of members for Nursing and Midwifery Undergraduate and Postgraduate Education Board, Nursing and Midwifery Assessment and Rating Board, and Nursing and Midwifery Ethics and Registration Board.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The President of each Autonomous Board, two whole-time Members and one part-time Member of Nursing and Midwifery Undergraduate and Postgraduate Education Board, and one whole-time Member and one part-time Member of Nursing and Midwifery Assessment and Rating Board and Nursing and Midwifery Ethics and Registration Board must be persons of outstanding ability, proven administrative capacity and integrity.",
+    "type": "obligation",
+    "applies_to": [
+      "President | whole-time Member | part-time Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The appointed individuals must possess a postgraduate degree in any discipline of nursing and midwifery from any University.",
+    "type": "obligation",
+    "applies_to": [
+      "President | whole-time Member | part-time Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The appointed individuals must have experience of not less than fifteen years, out of which at least seven years shall be as a nursing and midwifery leader.",
+    "type": "obligation",
+    "applies_to": [
+      "President | whole-time Member | part-time Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government appoints the members on the recommendations of the Search-cum-Selection Committee constituted under section 5.",
+    "type": "obligation",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(3)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The second whole-time Member of the Nursing and Midwifery Assessment and Rating Board shall be appointed by the Central Government on the recommendations of the Search-cum-Selection Committee constituted under section 5.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(4)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The second whole-time Member of the Nursing and Midwifery Assessment and Rating Board shall be a person of outstanding ability and integrity.",
+    "type": "condition",
+    "applies_to": [
+      "second whole-time Member of the Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(4)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The appointed person must possess a postgraduate degree in any of the disciplines of management, quality assurance, law or science and technology from any University.",
+    "type": "condition",
+    "applies_to": [
+      "second whole-time Member of the Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(4)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The person must have hands on clinical experience of not less than fifteen years in such field.",
+    "type": "condition",
+    "applies_to": [
+      "second whole-time Member of the Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(4)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "At least seven years of the clinical experience should be as the Head of a Department or the Head of an Institute or an organisation.",
+    "type": "condition",
+    "applies_to": [
+      "second whole-time Member of the Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(4)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The second whole-time Member of the Nursing and Midwifery Ethics and Registration Board is appointed by the Central Government on the recommendations of the Search-cum-Selection Committee constituted under section 5.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(5)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The second whole-time Member of the Nursing and Midwifery Ethics and Registration Board shall be a person of outstanding ability who has demonstrated public record of work on nursing or medical ethics or a person of outstanding ability possessing a postgraduate degree in any of the disciplines of quality assurance, public health, law or patient advocacy from any University and having experience of not less than fifteen years in such field, out of which at least seven years shall be as the Head of a Department or the Head of an Institute or an organisation.",
+    "type": "obligation",
+    "applies_to": [
+      "The second whole-time Member of the Nursing and Midwifery Ethics and Registration Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(5)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The second part-time Member of the Nursing and Midwifery Assessment and Rating Board, the Nursing and Midwifery Ethics and Registration Board and the Nursing and Midwifery Undergraduate and Postgraduate Education Board shall be chosen from amongst the nursing and midwifery Members representing the State Commissions under clause (h) of section 4.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "12",
+    "sub_section": "12(6)",
+    "topic": "Composition of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A board or organization with some degree of self-governance.",
+    "term": "Autonomous Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The President and the whole-time Members of each Autonomous Board shall hold office for a term not exceeding four years and shall not be eligible for any extension or reappointment. The part-time Members of each Autonomous Board shall hold the office for a term of two years.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A Member should be less than sixty-five years of age on the date of application for the office of Member.",
+    "type": "prohibition",
+    "applies_to": [
+      "Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Each Autonomous Board's vacancies shall be filled.",
+    "type": "obligation",
+    "applies_to": [
+      "Autonomous Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(2)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The salaries and allowances payable to, and other terms and conditions of service of the President and the whole-time Members of an Autonomous Board shall be such as may be prescribed.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(3)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every part-time Member of an Autonomous Board shall be entitled for such allowances as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "part-time Member of an Autonomous Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(4)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the applicability of sections 6 and 7 of an unspecified act or document to the Chairperson, Members of the National Commission, President, and Members of the Autonomous Boards.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "13",
+    "sub_section": "13(8)",
+    "topic": "Term of office and conditions of service of President and Members",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Each Autonomous Board, except the Nursing and Midwifery Ethics and Registration Board",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Advisory committees of experts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Each Autonomous Board, except the Nursing and Midwifery Ethics and Registration Board shall be assisted by such advisory committees consisting of experts as may be constituted by the National Commission, for the efficient discharge of the functions of such Autonomous Board.",
+    "type": "obligation",
+    "applies_to": [
+      "Autonomous Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Advisory committees of experts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall be assisted by ethics committees of experts as may be constituted by the National Commission.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "14",
+    "sub_section": "14(2)",
+    "topic": "Advisory committees of experts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The experts, consultants, professionals, officers and other employees appointed under section 8 shall be made available to the Autonomous Boards.",
+    "type": "obligation",
+    "applies_to": [
+      "Autonomous Boards"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "15",
+    "sub_section": "15(1)",
+    "topic": "Staff of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The foreign experts and domain specialists from foreign countries invited by the National Commission under section 8 shall also be made available to the Autonomous Boards.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "15",
+    "sub_section": "15(2)",
+    "topic": "Staff of Autonomous Boards",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The President of each Autonomous Board shall have such administrative and financial powers as may be delegated to it by the National Commission.",
+    "type": "obligation",
+    "applies_to": [
+      "President of each Autonomous Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "17",
+    "sub_section": "17(1)",
+    "topic": "Powers of Autonomous Boards and delegation of powers",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope of the Nursing and Midwifery Assessment and Rating Board includes performing functions related to assessing and rating nursing and midwifery institutions for their compliance with standards, granting permission for establishment or expansion of such institutions, conducting inspections, and hiring other inspection agencies or accreditation bodies or persons for the same.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The procedure for assessing and rating nursing and midwifery institutions shall be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Permission for establishment of a new nursing and midwifery institution, or to start any postgraduate level or higher qualification course, or to increase number of seats, shall be granted in accordance with the provisions of section 21.",
+    "type": "prohibition",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board may conduct inspections of nursing and midwifery institutions in the manner specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board may hire and authorise any other inspection agency or accreditation body or persons for conducting inspections of nursing and midwifery institutions.",
+    "type": "condition",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It is obligatory on a nursing and midwifery institution to provide access to any inspection agency or person authorised by the Nursing and Midwifery Assessment and Rating Board during an inspection.",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board may conduct evaluation and assessment of any nursing and midwifery institution at any time, either directly or through any other expert having integrity and experience of nursing and midwifery profession and without any prior notice.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board may conduct, or where it deems necessary, empanel independent rating agencies to conduct, assess and rate all nursing and midwifery institutions, within such period of their opening, at such time, and in such manner as may be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board shall make available on its website or in public domain the assessment and ratings of nursing and midwifery institutions at regular intervals in such manner as may be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board may take such measures, including issuing warning, imposition of monetary penalty, reducing intake or stoppage of admissions and recommending to the National Commission for withdrawal of recognition, against a nursing and midwifery institution for failure to maintain the minimum essential standards specified by the Nursing and Midwifery Undergraduate and Postgraduate Education Board.",
+    "type": "prohibition",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The monetary penalty imposed shall not exceed...",
+    "type": "penalty",
+    "applies_to": [
+      "nursing and midwifery institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the regulation of nursing and midwifery institutions, specifically in relation to undergraduate and postgraduate courses.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The fee charged by a nursing and midwifery institution for one full batch of students should be less than one-tenth and not more than five times the total amount charged for an undergraduate or postgraduate course. This rule applies to such institutions.",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board must consult the Nursing and Midwifery Undergraduate and Postgraduate Education Board before recommending to the National Commission for withdrawal of recognition of a nursing and midwifery institution that fails to maintain the minimum essential standards specified by the Nursing and Midwifery Undergraduate and Postgraduate Education Board. This rule applies to the Nursing and Midwifery Assessment and Rating Board.",
+    "type": "condition",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board shall make recommendations to, and seek directions from, the National Commission.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "19",
+    "sub_section": "19(2)",
+    "topic": "Powers and functions of Nursing and Midwifery Assessment and Rating Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall perform the following functions, namely:— (a) maintain the National Register for all registered professionals in accordance with the provisions of section 25; (b) approve or reject applications for registration of professionals governed under this Act; (c) regulate professional conduct and promote nursing and midwifery ethics in such manner as may be specified by regulations; (d) develop mechanisms to have continuous interaction with State Commissions to effectively promote and regulate the conduct of nursing and midwifery professionals; (e) exercise appellate jurisdiction with respect to the actions taken by a State Commission under section 24; and (f) provide for mechanisms for receiving complaints and grievance redressal.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "20",
+    "sub_section": "20(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Ethics and Registration Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall ensure compliance of the code of professional and ethical conduct through the State Commission in a case where such State Commission has been conferred power to take disciplinary action in respect of professional or ethical misconduct by nursing and midwifery professionals under this Act; provided that...",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Ethics and Registration Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "20",
+    "sub_section": "20(1)",
+    "topic": "Powers and functions of Nursing and Midwifery Ethics and Registration Board",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The body responsible for granting or refusing permission to establish a new nursing and midwifery institution, start any postgraduate course, or increase the number of seats.",
+    "term": "Nursing and Midwifery Assessment and Rating Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The body that must be consulted by the Nursing and Midwifery Assessment and Rating Board before granting or refusing permission to establish a new nursing and midwifery institution, start any postgraduate course, or increase the number of seats.",
+    "term": "Nursing and Midwifery Undergraduate and Postgraduate Education Board",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text applies to any person who wishes to establish a new nursing and midwifery institution, start any postgraduate course, or increase the number of seats in an existing institution.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not establish a new nursing and midwifery institution, or start any postgraduate course, or increase the number of seats without obtaining prior permission from the Nursing and Midwifery Assessment and Rating Board.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board shall consult the Nursing and Midwifery Undergraduate and Postgraduate Education Board before according or refusing to accord such permission.",
+    "type": "condition",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term 'permission' as used in this context refers to the authorization granted under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(2)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Assessment and Rating Board shall consider the proposal received under sub-section",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Assessment and Rating Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(3)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses a period of six months within which a proposal must be either approved or disapproved.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(2)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a proposal is to be disapproved, an opportunity to rectify any defects shall be given to the person concerned before doing so.",
+    "type": "condition",
+    "applies_to": [
+      "proposal"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(2)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "such approval shall be deemed to be the permission under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(3)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall decide the appeal received under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(6)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "University, trust or any other association of persons or body of individuals, but does not include the Central Government",
+    "term": "person",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section applies to establishing a new nursing and midwifery institution, starting any postgraduate course, or increasing number of seats.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "21",
+    "sub_section": "21(1)",
+    "topic": "Permission for establishment of new nursing or midwifery institution",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the approval or disapproval of proposals under section 21 by The Nursing and Midwifery Assessment and Rating Board or, as the case may be, the National Commission. This process considers certain criteria for nursing and midwifery institutions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "22",
+    "sub_section": null,
+    "topic": "Criteria for approving or disapproving proposal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While approving or disapproving a proposal under section 21, The Nursing and Midwifery Assessment and Rating Board or, as the case may be, the National Commission shall consider the adequacy of financial resources, whether adequate academic faculty and other necessary facilities have been provided or will be provided within the time-limit specified in the proposal, whether adequate hospital facilities have been provided or will be provided within the time-limit specified in the proposal, and such other factors as may be specified by regulations.",
+    "type": "obligation",
+    "applies_to": [
+      "The Nursing and Midwifery Assessment and Rating Board | The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "22",
+    "sub_section": null,
+    "topic": "Criteria for approving or disapproving proposal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The criteria for nursing and midwifery institutions may be relaxed for the institutions which are set up in such areas as may be specified by regulations, subject to the previous approval of the Central Government.",
+    "type": "exception",
+    "applies_to": [
+      "nursing and midwifery institutions"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "22",
+    "sub_section": null,
+    "topic": "Criteria for approving or disapproving proposal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall constitute a State Nursing and Midwifery Commission within one year from the commencement of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "State Government shall constitute a State Nursing and Midwifery Commission.",
+    "type": "obligation",
+    "applies_to": [
+      "State Government"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If no such State Commission exists in that State by a State Law, the State Commission shall exercise powers and discharge duties as may be laid down under this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "State Nursing and Midwifery Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(1)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Nursing and Midwifery Commission shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract and shall by the same name sue or be sued.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(2)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A commission consisting of members with specific roles and qualifications.",
+    "term": "State Commission",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person nominated by the State Government, having outstanding ability, administrative capacity, integrity, a postgraduate degree in nursing and midwifery, and at least 20 years of experience in the field of nursing and midwifery, with at least 10 years as a nursing and midwifery leader.",
+    "term": "Chairperson",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A member representing nursing in the Health Department of the State Government or an in-charge for nursing education and services, if no such position exists in a State.",
+    "term": "Member (ex officio)",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person holding a rank from any nursing or midwifery college or institute of the State Government.",
+    "term": "Dean or Head of the Department",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Two persons nominated by the State Government, having eminence in the nursing and midwifery profession with qualifications and experience as may be prescribed by the State Government.",
+    "term": "Member (from nursing and midwifery profession)",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Two persons nominated by the State Government, having eminence in nursing and midwifery associates with qualifications and experience as may be prescribed by the State Government.",
+    "term": "Member (from nursing and midwifery associates)",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the composition of a Board of Management for Nursing Education and Training in a state. The members include representatives from clinical establishments, hospitals, companies, individuals, nursing, midwifery, and charitable institutions engaged in education or services in connection with nursing and midwifery.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term of a person holding office in a clinical establishment or hospital is not more than four years as notified by the State Government, and they are not eligible for any extension or reappointment.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "23",
+    "sub_section": "23(3)",
+    "topic": "Constitution and composition of State Nursing and Midwifery Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Commission shall take all such steps as it may think fit for ensuring coordinated and integrated development of education and maintenance of the standards of delivery of services under this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(1)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Commission may, for the purposes of performing its functions,",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "enforce the professional conduct, code of ethics and etiquette to be observed by the nursing and midwifery professionals including associates in the State and take disciplinary action including the removal of name of a professional from the State Register",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery professionals | associates"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "ensure standards of education, courses, curricula, physical and instructional facilities, staff pattern, staff qualifications, quality instructions, assessment, examination, training, research, continuing professional education as provided by the Autonomous Boards",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "maintain the State Registers for registered professionals",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "issue certification of specialisation or other forms of certification to those who practice the profession of nursing and midwifery",
+    "type": "obligation",
+    "applies_to": [
+      "those who practice the profession of nursing and midwifery"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "conduct common counselling for admission to nursing associate and midwifery associate courses regulated under this Act",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "provide for a skill based examination to ensure adequate competence of Nursing and Midwifery Associates before enrolment in the State Register",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "ensure compliance of all the directives issued by the National Commission",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "meet with Principals of all colleges of nursing and schools of nursing in the State at least once in every quarter to identify and resolve issues",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "perform such other functions as may be entrusted to it by",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government, Union territory Administration, National Commission, or any other entity as may be necessary for the implementation of the provisions of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(2)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where a State Act confers power upon the State Commission to take disciplinary action in respect of any professional or ethical misconduct by a registered professional",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Till such time as a State Commission is constituted in a State, the Nursing and Midwifery Ethics and Registration Board shall receive the complaints and grievances relating to any professional or ethical misconduct against a registered professional in that State",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Commission shall act in such manner as may be specified by regulations and the guidelines framed under this Act",
+    "type": "obligation",
+    "applies_to": [
+      "State Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall give an opportunity of hearing to the registered professional concerned before taking any action, including imposition of any monetary penalty against such person",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Ethics and Registration Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A registered nurse or midwife may prefer an appeal to the Nursing and Midwifery Ethics and Registration Board within a period of sixty days against such action.",
+    "type": "obligation",
+    "applies_to": [
+      "registered nurse | registered midwife"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall decide on the appeal within a period of sixty days.",
+    "type": "obligation",
+    "applies_to": [
+      "Nursing and Midwifery Ethics and Registration Board"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(3)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "any act of commission or omission as may be specified by regulations",
+    "term": "professional or ethical misconduct",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(5)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Union territory",
+    "term": "State",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(5)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Central Government (in relation to a Union territory)",
+    "term": "State Government",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(5)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Union Territory Nursing and Midwifery Commission (in relation to a Union territory)",
+    "term": "State Nursing and Midwifery Commission",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(5)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act applies to clinical establishments, hospitals, companies, and individuals.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "24",
+    "sub_section": "24(5)",
+    "topic": "Functions of State Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall maintain an online and live Indian Nurses and Midwives' Register containing the name, address, all recognised qualifications possessed by a nursing professional, midwifery professional, nursing associate, midwifery associate and such other particulars as may be specified by regulations.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(1)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall maintain the National Register.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(2)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The manner in which a name or qualification may be added to, or removed from, the National Register and the grounds for adding thereto or removal thereof, shall be such as may be specified by regulations.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(3)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Register shall be a public document.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(4)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Register shall be made available to the public in the form of a digital portal accessible on the website of the Nursing and Midwifery Ethics and Registration Board.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(5)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Commission shall maintain and regularly update, in digital form, the State Register for Nursing Professionals and Midwifery Professionals and the State Register for Nursing Associates and Midwifery Associates.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(6)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "in the specified digital format",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(6)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "supply a physical copy of the same to the Nursing and Midwifery Ethics and Registration Board within three months of the commencement of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(6)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Ethics and Registration Board shall ensure dynamic and electronic synchronisation of the National Register and the State Registers in such a manner that any change in one register is automatically reflected in the other register.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "25",
+    "sub_section": "25(7)",
+    "topic": "National Register and State Register",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A register maintained for enrolling nursing or midwifery professionals.",
+    "term": "National Register",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A register maintained by a state for enrolling nursing or midwifery professionals.",
+    "term": "State Register",
+    "type": "definition",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text applies to any person who practices nursing or midwifery as a qualified nursing or midwifery professional or nursing or midwifery associate, and those giving evidence at any inquest or in any court of law as an expert under section 42 of the Indian Evidence Act, 1872 (1 of 1872).",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person who is not enrolled in the National Register or State Register shall not be allowed to practice nursing or midwifery as a qualified nursing or midwifery professional or nursing or midwifery associate.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person who is not enrolled in the National Register or State Register shall not be entitled to give evidence at any inquest or in any court of law as an expert under section 42 of the Indian Evidence Act, 1872 (1 of 1872) on any matter relating to nursing and midwifery.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A foreign citizen who is enrolled in his country as a nursing and midwifery professional in accordance with the law regulating the registration of nursing and midwifery professionals in that country may be permitted temporary registration in India for such period and in such manner as may be specified by regulations.",
+    "type": "exception",
+    "applies_to": [
+      "foreign citizen"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(1)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section refers to provisions related to the recognition of nursing and midwifery qualifications.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any person who contravenes any of the provisions of this section shall be punished.",
+    "type": "prohibition",
+    "applies_to": [
+      "any person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The penalty for contravening the provisions is imprisonment for a term which may extend to one year, or with fine which may extend to five lakh rupees, or with both.",
+    "type": "penalty",
+    "applies_to": [
+      "any person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "27",
+    "sub_section": "27(2)",
+    "topic": "Bar to practice",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall constitute an advisory body to be known as the Nursing and Midwifery Advisory Council.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "34",
+    "sub_section": "34(1)",
+    "topic": "Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Nursing and Midwifery Advisory Council shall consist of a Chairperson and Members as defined in the text.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "34",
+    "sub_section": "34(2)",
+    "topic": "Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the composition of a council, including members from the Indian Institute of Science, nominated by the Central Government, and heads of three national level professional nursing and midwifery associations, nominated by the Chairperson of the Advisory Council.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "34",
+    "sub_section": "34(2)",
+    "topic": "Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term of an individual holding office shall not exceed four years, as the Central Government may notify.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "34",
+    "sub_section": "34(2)",
+    "topic": "Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Advisory Council shall be the primary platform through which the States and Union territories may put forth their views and concerns before the National Commission and help in shaping the overall agenda, policy and action relating to nursing and midwifery education, services, training and research.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "35",
+    "sub_section": "35(1)",
+    "topic": "Functions of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Advisory Council shall advise the National Commission on measures to determine and maintain, and to co-ordinate maintenance of, the minimum standards in all matters relating to nursing and midwifery education, services, training and research.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "35",
+    "sub_section": "35(2)",
+    "topic": "Functions of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Advisory Council shall advise the National Commission on measures to enhance equitable access to nursing and midwifery education, services, training and research.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "35",
+    "sub_section": "35(3)",
+    "topic": "Functions of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Advisory Council shall meet at least once a year.",
+    "type": "obligation",
+    "applies_to": [
+      "Advisory Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(1)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Chairperson of the Advisory Council shall preside over the meeting of the Advisory Council.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson of the Advisory Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(2)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If for any reason the Chairperson is unable to attend a meeting of the Advisory Council, such other Member as may be nominated by the Chairperson shall preside over such meeting.",
+    "type": "obligation",
+    "applies_to": [
+      "Chairperson of the Advisory Council",
+      "other Member"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(2)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(3)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Unless the procedure is otherwise provided by regulations, two-thirds of the Members of the Advisory Council including the Chairperson shall form the quorum and all acts of the Advisory Council shall be decided by a majority of the Members present and voting.",
+    "type": "obligation",
+    "applies_to": [
+      "Advisory Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(3)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term of office for a District Judge is not more than four years and can be extended by the Central Government.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "36",
+    "sub_section": "36(2)",
+    "topic": "Meetings of Nursing and Midwifery Advisory Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may make grants to the National Commission after due appropriation made by Parliament by law.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "37",
+    "sub_section": null,
+    "topic": "Grants by Central Government",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Nursing and Midwifery Commission Fund shall form part of the public account of India.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "National Nursing and Midwifery Commission Fund",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "There shall be constituted a fund called the National Nursing and Midwifery Commission Fund.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "National Nursing and Midwifery Commission Fund",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "All fees, penalties and charges received by the National Commission and the Autonomous Boards shall be credited to the National Nursing and Midwifery Commission Fund.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission | Autonomous Boards"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "National Nursing and Midwifery Commission Fund",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "All sums received by the National Commission from such other sources as may be decided by it shall be credited to the National Nursing and Midwifery Commission Fund.",
+    "type": "obligation",
+    "applies_to": [
+      "National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "National Nursing and Midwifery Commission Fund",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Fund shall be applied for making payment towards— (a) the salaries and allowances payable to the Chairperson, Secretary and Members of the National Commission, the Presidents and Members of the Autonomous Boards and the administrative expenses including the salaries and allowances payable to the officers and other employees of the National Commission and Autonomous Boards; (b) the expenses incurred in carrying out the provisions of this Act, including in connection with the discharge of the functions of the National Commission and the Autonomous Boards.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "38",
+    "sub_section": "38(2)",
+    "topic": "National Nursing and Midwifery Commission Fund",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(1)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed, in consultation with the Comptroller and Auditor-General of India.",
+    "type": "obligation",
+    "applies_to": [
+      "The National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(1)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The accounts of the National Commission shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(2)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Comptroller and Auditor-General of India and any other person appointed by him in connection with the audit of the accounts of the National Commission",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(3)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Comptroller and Auditor-General of India and any other person appointed by him in connection with the audit of the accounts of the National Commission shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts.",
+    "type": "obligation",
+    "applies_to": [
+      "The Comptroller and Auditor-General of India | Any other person appointed by him in connection with the audit of the accounts of the National Commission"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(3)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The accounts of the National Commission as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf shall be forwarded annually by the National Commission to the Central Government which shall cause the same to be laid, as soon as may be after it is received, before each House of Parliament.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "39",
+    "sub_section": "39(4)",
+    "topic": "Audit and accounts",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall furnish reports and statements containing particulars in regard to any matter under its jurisdiction to the Central Government at such time, in such form and in such manner as may be prescribed or as the Central Government may direct.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "40",
+    "sub_section": "40(1)",
+    "topic": "Furnishing of returns and reports to Central Government",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall prepare an annual report once every year.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Furnishing of returns and reports to Central Government",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "40",
+    "sub_section": "40(2)",
+    "topic": "Furnishing of returns and reports to Central Government",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may give directions to a State Government for carrying out all or any of the provisions of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "42",
+    "sub_section": null,
+    "topic": "Power of Central Government to give directions to State Governments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government shall comply with such directions given by the Central Government.",
+    "type": "obligation",
+    "applies_to": [
+      "State Government"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "42",
+    "sub_section": null,
+    "topic": "Power of Central Government to give directions to State Governments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may give directions to a State Commission for carrying out all or any of the provisions of this Act and the State Commission shall comply with such directions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "43",
+    "sub_section": null,
+    "topic": "Power of National Commission to give directions to State Commissions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission shall furnish such reports, copies of its minutes, abstracts of its accounts, and other information to the Central Government as that Government may require.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Information to be furnished by National Commission and publication thereof",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every University and nursing and midwifery institution governed under this Act shall maintain a website at all times and display on its website all such information as may be required by the National Commission or an Autonomous Board, as the case may be.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "45",
+    "sub_section": null,
+    "topic": "Obligation of Universities and nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any student who was studying for a degree, diploma or certificate in any nursing and midwifery institution immediately before the commencement of this Act shall continue to study and complete his course under this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "46",
+    "sub_section": "46(1)",
+    "topic": "Completion of courses of studies in nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The institution shall continue to provide instructions and examination for such student in accordance with the syllabus and studies as existed before such commencement.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment | hospital | institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "46",
+    "sub_section": "46(1)",
+    "topic": "Completion of courses of studies in nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The student shall be deemed to have completed his course of study under this Act and shall be awarded degree, diploma or certificate under this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "student"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "46",
+    "sub_section": "46(1)",
+    "topic": "Completion of courses of studies in nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Recognition granted to a nursing institution has lapsed, whether by efflux of time or by its voluntary surrender or for any other reason.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "46",
+    "sub_section": "46(2)",
+    "topic": "Completion of courses of studies in nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A nursing institution that has had recognition lapse shall continue to maintain and provide the minimum standards required under this Act until all candidates who are admitted in that nursing institution complete their study.",
+    "type": "obligation",
+    "applies_to": [
+      "nursing institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "46",
+    "sub_section": "46(2)",
+    "topic": "Completion of courses of studies in nursing and midwifery institutions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "48",
+    "sub_section": null,
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No suit, prosecution or other legal proceeding shall lie against the Government, the National Commission or any Autonomous Board or a State Commission or any committee thereof, or any officer or other employee of the Government or of the National Commission acting under this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "Government | National Commission | Autonomous Board | State Commission | committee | officer | employee"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "48",
+    "sub_section": null,
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An offence punishable under this Act can only be taken cognizance by a court upon a complaint in writing made by an officer authorized by the National Commission or the Nursing and Midwifery Ethics and Registration Board or a State Commission.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "49",
+    "sub_section": null,
+    "topic": "Cognizance of offences",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A court shall not take cognizance of an offence punishable under this Act except upon a complaint in writing made by an officer authorized by the National Commission or the Nursing and Midwifery Ethics and Registration Board or a State Commission.",
+    "type": "prohibition",
+    "applies_to": [
+      "court"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "49",
+    "sub_section": null,
+    "topic": "Cognizance of offences",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government has the power to supersede the National Commission for up to six months if it is of the opinion that the National Commission is unable to discharge its functions or has persistently defaulted in complying with directions issued by the Central Government.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(1)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a notification published under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(2)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The period of supersession specified in the notification issued under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(3)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not be deemed to be disqualified for appointment.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(2)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Provided that the Central Government may, at any time before the expiration of the period of supersession, whether as originally specified under sub-section",
+    "type": "exception",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(2)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall cause a notification issued under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "50",
+    "sub_section": "50(4)",
+    "topic": "Power of Central Government to supersede National Commission",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, subject to the condition of previous publication,",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may make rules for carrying out the provisions of this Act.",
+    "type": "obligation",
+    "applies_to": [
+      "Central Government"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 5",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope includes section 6.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(5)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 6",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(7)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 8; (h)",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(7)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 12",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(6)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 13",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(4)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the time within which, form, and manner in which reports and statements shall be furnished by the National Commission.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text refers to section 40, but no explicit definition or scope is provided.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope includes provisions related to section 56, and any other matters in respect of which provision is to be made by rules for carrying out the purposes of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "51",
+    "sub_section": "51(5)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission may make regulations consistent with this Act and the rules made thereunder to carry out the provisions of this Act, subject to the condition of previous publication.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(5)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(8)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(9)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "of section 9",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10, section 8, section 15, clause (a) of sub- section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 18",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 18",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 18; standards for setting up of nursing and midwifery institutions for imparting undergraduate and postgraduate courses, having regard to the needs of the country and the global norms under clause (d) of sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 18; the manner of determining the standards and norms for infrastructure, faculty and quality of education in nursing and midwifery institutions providing undergraduate and postgraduate nursing and midwifery education",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the manner of regulating the standards and scope of practice of registered nursing and midwifery professionals, including nurse practitioners, nursing associates and midwifery associates who have obtained the nursing and midwifery qualification as provided by Nursing and Midwifery Undergraduate and Postgraduate Education Board under clause (h), and the manner of regulating the 29 limited prescribing authority in consultation with the National Commission under clause (i), of sub- section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the scope of section 19, which includes the time and manner of conducting assessments and rating of nursing and midwifery institutions.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the requirement to make available on the website or in public domain the assessment and ratings of nursing and midwifery institutions at regular intervals, under clause (e) of sub-section.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 19",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the measures to be taken including the manner of issuing warning, imposition of monetary penalty, reducing intake or stoppage of admissions and recommending to the National Commission for withdrawal of recognition",
+    "type": "obligation",
+    "applies_to": [
+      "nursing and midwifery institution"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "imposition of monetary penalty",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 19",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the nursing and midwifery institutions set up in such areas which are eligible for relaxation of the criteria under section 21;",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(5)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text refers to section 24, acts of commission or omission which would amount to professional or ethical misconduct under the Explanation to section 24, and other particulars specified in the online and live National Register maintained by the Nursing and Midwifery Ethics and Registration Board under sub-section",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 25",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the manner in which a name or qualification may be added to or removed from the National Register and the grounds for such actions under sub-section.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Register shall be made available to the public on the website of the Nursing and Midwifery Ethics and Registration Board.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the registration process of a nursing and midwifery professional who has obtained a recognized qualification. This process is governed by section 25.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(5)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 26",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 26",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the period and manner in which a foreign citizen may be permitted temporary registration in India",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(4)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 27",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 28",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 28",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the manner of listing and maintaining all nursing and midwifery qualifications which have been recognised before the date of commencement of this Act and are included in the Part I and Part II of the Schedule to the Indian Nursing Council Act, 1947.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 28; (zl) the manner of listing and maintaining the nursing and midwifery qualification, which is granted recognition by the National Commission and the manner of practice by a person possessing such qualification",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(7)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The scope pertains to section 29 and the mutual recognition of the qualifications for reciprocal registration of nursing and midwifery professionals between two countries.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person possessing necessary qualification shall be permitted to practice.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(4)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 36; and (zq) any other matter",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "52",
+    "sub_section": "52(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of section 23",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "53",
+    "sub_section": "53(1)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Section 28",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "53",
+    "sub_section": "53(9)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Section 23",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "53",
+    "sub_section": "53(3)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made under this section shall, as soon as may be, after it is made, be laid before the State Legislature.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "53",
+    "sub_section": "53(3)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule and regulation made and every notification issued under this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "54",
+    "sub_section": null,
+    "topic": "Laying of rules, regulations and notifications before Parliament",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act applies to any difficulty that arises in giving effect to its provisions, and the Central Government has the authority to make necessary provisions not inconsistent with this Act for removing such difficulties.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "55",
+    "sub_section": "55(1)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.",
+    "type": "obligation",
+    "applies_to": [
+      "order"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "55",
+    "sub_section": "55(2)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Indian Nursing Council Act, 1947 (48 of 1947) shall stand repealed with effect from such date as the Central Government may appoint in this behalf.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(1)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Act referred to in sub-section is repealed.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(2)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The repeal of an Act shall not affect the previous operation of the Act so repealed or anything duly done or suffered thereunder; any right, privilege, obligation or liability acquired, accrued or incurred under the Act so repealed; any penalty incurred in respect of any contravention under the Act so repealed; or any proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(1)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The dissolution of the Indian Nursing Council results in the vacating of offices by the President and other Members, and they are entitled to claim compensation, fees, and allowances for a period not exceeding ninety days.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(3)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The President and every other person appointed as the Member of the Indian Nursing Council shall vacate their respective offices upon dissolution.",
+    "type": "obligation",
+    "applies_to": [
+      "President | Members of the Indian Nursing Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(3)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The President and other Members are entitled to claim compensation, fees, and allowances for a period not exceeding ninety days after dissolution.",
+    "type": "obligation",
+    "applies_to": [
+      "President | Members of the Indian Nursing Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(3)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every officer who has been appointed on deputation basis in the Indian Nursing Council",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(4)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall, on its dissolution, stand reverted to his parent cadre, Ministry or Department",
+    "type": "obligation",
+    "applies_to": [
+      "officer"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(4)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The services of other employees who have been employed on regular basis by the Indian Nursing Council before its dissolution shall continue for no longer than one year after the enactment of this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(5)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Such employees of the erstwhile Indian Nursing Council shall be entitled to compensation which shall not be less than three months’ pay and allowances, as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "employees of the erstwhile Indian Nursing Council"
+    ],
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(5)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any order made, any licence to practice issued, any registration made, any permission to start a new nursing college or institution, or to start higher course of studies, or for increase in the admission capacity granted, or any recognition of nursing qualifications granted under the Indian Nursing Council Act, 1947 (48 of 1947), which are in force as on the date of commencement of this Act, shall continue to be in force till the date of their expiry for all purposes.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "56",
+    "sub_section": "56(6)",
+    "topic": "Repeal and saving",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Commission is the successor in interest to the Indian Nursing Council including its subsidiaries or owned trusts.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "57",
+    "sub_section": "57(1)",
+    "topic": "Transitory provisions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "All the assets and liabilities of the Indian Nursing Council shall be deemed to have been transferred to the National Commission.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "57",
+    "sub_section": "57(1)",
+    "topic": "Transitory provisions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The educational standards, requirements and other provisions of the Indian Nursing Council Act, 1947 (48 of 1947) shall continue to be in force and operate till new standards or requirements are specified under this Act.",
+    "type": "scope",
+    "law": "THE NATIONAL NURSING AND MIDWIFERY COMMISSION ACT, 2023",
+    "section": "57",
+    "sub_section": "57(2)",
+    "topic": "Transitory provisions",
+    "jurisdiction": "India"
+  }
+]

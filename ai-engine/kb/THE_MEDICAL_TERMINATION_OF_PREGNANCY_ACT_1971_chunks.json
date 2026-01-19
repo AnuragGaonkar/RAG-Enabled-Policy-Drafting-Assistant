@@ -1,0 +1,236 @@
+[
+  {
+    "text": "This Act may be called the Medical Termination of Pregnancy Act, 1971.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title, extent and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It extends to the whole of India",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title, extent and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "1",
+    "sub_section": "1(3)",
+    "topic": "Short title, extent and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person having the care of the person of a minor or a mentally ill person",
+    "term": "guardian",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Medical Board constituted under sub-section (2C) of section 3 of the Act",
+    "term": "Medical Board",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who is in need of treatment by reason of any mental disorder other than mental retardation",
+    "term": "mentally ill person",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who, under the provisions of the Indian Majority Act, 1875 (9 of 1875), is to be deemed not to have attained his majority",
+    "term": "minor",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a medical practitioner who possesses any recognised medical qualification as defined in clause (h) of section 2 of the Indian Medical Council Act, 1956 (102 of 1956), whose name has been entered in a State Medical Register and who has such experience or training in gynaecology and obstetrics as may be prescribed by rules made under this Act.",
+    "term": "registered medical practitioner",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a procedure to terminate a pregnancy by using medical or surgical methods.",
+    "term": "termination of pregnancy",
+    "type": "definition",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, by notification in the Official Gazette, make rules to carry out the provisions of this Act.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "6",
+    "sub_section": "6(1)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the rules may provide for all or any of the following matters, namely:— (a) the experience or training, or both, which a registered medical practitioner shall have if he intends to terminate any pregnancy under this Act; and 3[(aa) the category of woman under clause (b) of sub-section",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "6",
+    "sub_section": "6(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This refers to the scope of the Act and includes: (1) the norms for the registered medical practitioner whose opinion is required for termination of pregnancy at different gestational age under sub-section (2A) of section 3, (2) the powers and functions of the Medical Board under sub-section (2C) of section 3, and (3) such other matters as are required to be or may be, provided by rules made under this Act.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "6",
+    "sub_section": "6(2)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made by the Central Government under this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "6",
+    "sub_section": "6(3)",
+    "topic": "Power to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government may, by regulations,",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the preservation or disposal of certificates related to section 3 termination of pregnancy; intimation of such termination and other information relating to the termination; disclosure of intimations given or information furnished in pursuance of regulations",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Certification by a registered medical practitioner or practitioners concerned, in such form and at such time as may be specified in such regulations (obligation, applies_to: clinical establishment | hospital | company | individual)",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Requirement for any registered medical practitioner to give intimation of termination of pregnancy and such other information as may be specified in regulations (obligation, applies_to: clinical establishment | hospital | company | individual)",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Prohibition of disclosure of intimations given or information furnished in pursuance of regulations except to specified persons and for specified purposes (prohibition, applies_to: clinical establishment | hospital | company | individual)",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(2)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every regulation made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.",
+    "type": "scope",
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not wilfully contravene or wilfully fail to comply with the requirements of any regulation made under sub-section",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(3)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall be liable to be punished with a fine which may extend to one thousand rupees.",
+    "type": "obligation",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall be liable to be punished with a fine which may extend to one thousand rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "7",
+    "sub_section": "7(1)",
+    "topic": "Power to make regulations",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No suit or other legal proceeding shall lie against any registered medical practitioner for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "registered medical practitioner"
+    ],
+    "law": "THE MEDICAL TERMINATION OF PREGNANCY ACT, 1971",
+    "section": "8",
+    "sub_section": null,
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  }
+]

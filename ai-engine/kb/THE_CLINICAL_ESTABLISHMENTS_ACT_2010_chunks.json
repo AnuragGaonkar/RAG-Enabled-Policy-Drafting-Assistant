@@ -1,0 +1,2375 @@
+[
+  {
+    "text": "This Act may be called the Clinical Establishments (Registration and Regulation) Act, 2010.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title, application and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It applies, in the first instance, to the whole of the States of Arunachal Pradesh, Himachal Pradesh, Mizoram and Sikkim and the Union territories; and it shall apply to such other State which adopts this Act by resolution passed in that behalf under clause",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title, application and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to article 252 of the Constitution.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title, application and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall come into force at once in the States of Arunachal Pradesh, Himachal Pradesh, Mizoram and Sikkim and the Union territories, on such date1 as the Central Government may, by notification, appoint and in any other State which adopts this Act under clause",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "1",
+    "sub_section": "1(3)",
+    "topic": "Short title, application and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "In relation to any State or Union territory, the reference to the commencement of this Act means the date on which this Act comes into force in such State or Union territory.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title, application and commencement",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the district registering authority set-up under section 10",
+    "term": "authority",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "certificate of registration issued under section 30",
+    "term": "certificate",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a hospital, maternity home, nursing home, dispensary, clinic, sanatorium or an institution by whatever name called that offers services, facilities requiring diagnosis, treatment or care for illness, injury, deformity, abnormality or pregnancy in any recognised system of medicine established and administered or maintained by any person or body of persons, whether incorporated or not; or a place established as an independent entity or part of an establishment referred to in sub- clause (i), in connection with the diagnosis or treatment of diseases where pathological, bacteriological, genetic, radiological, chemical, biological investigations or other diagnostic or investigative services with the aid of laboratory or other medical equipment, are usually carried on, established and administered or maintained by any person or body of persons, whether incorporated or not, and shall include a clinical establishment owned, controlled or managed by— (a) the Government or a department",
+    "term": "clinical establishment",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "1st March, 2012, vide notification No. S.O. 342(E), dated 28th February, 2012, see Gazette of India, Extraordinary, Part II, sec. 3(ii)",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the forces constituted under the Army Act, 1950 (46 of 1950), the Air Force Act, 1950 (45 of 1950) and the Navy Act, 1957(62 of 1957)",
+    "term": "Armed Forces",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) of such a nature that the absence of immediate medical attention could reasonably be expected to result in—\n(i) placing the health of the individual or, with respect to a pregnant women, the health of the woman or her unborn child, in serious jeopardy;\nor (ii) serious impairment to bodily functions;\nor (iii) serious dysfunction of any organ or part of a body;",
+    "term": "emergency medical condition",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the National Council for clinical establishments established under section 3",
+    "term": "National Council",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a notification published in the Official Gazette",
+    "term": "notification",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "",
+    "term": "prescribed",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clinical establishment does not include the clinical establishments owned, controlled or managed by the Armed Forces.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "rules made under this Act by the Central Government or, as the case may be, the State Government",
+    "term": "prescribed",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Allopathy, Yoga, Naturopathy, Ayurveda, Homoeopathy, Siddha and Unani System of medicines or any other system of medicine as may be recognised by the Central Government",
+    "term": "recognised system of medicine",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the register maintained by the authority, State Government and the Central Government under sections 37, 38 and 39 respectively of this Act containing the number of clinical establishments registered",
+    "term": "register",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "to register under section 11 and the expression registration or registered shall be construed accordingly",
+    "term": "registration",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "rules made under this Act",
+    "term": "rules",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the Schedule appended to this Act",
+    "term": "Schedule",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the conditions that the Central Government may prescribe under section 12, for the registration of clinical establishments",
+    "term": "standards",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "in relation to a Union territory, means the Administrator thereof appointed under article 239 of the Constitution",
+    "term": "State Government",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "with respect to an emergency medical condition specified in clause (d), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability,",
+    "term": "to stabilise (with its grammatical variations and cognate expressions)",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the transfer of an individual from a clinical establishment.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "2",
+    "sub_section": null,
+    "topic": "Definitions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "There shall be established for the purposes of this Act, a Council to be called the National Council for clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(1)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall consist of...",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the representation in the Bureau of Indian Standards as per various Acts and Councils.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The nominated members of the National Council shall hold office for three years but shall be eligible for re-nomination for a maximum of one more term of three years.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The elected members of the National Council shall hold office for three years, but shall be eligible for re-election: Provided that the person nominated or elected, as the case may be, shall hold office for such period till he holds appointment of the office by virtue of which he was nominated or elected to the council.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(4)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council may make bye-laws subject to the previous approval of the Central Government.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(6)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall meet at least once in three months.",
+    "type": "obligation",
+    "applies_to": [
+      "National Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(7)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council may constitute sub-committees and appoint persons who are not members of the National Council for such period, not exceeding two years, for the consideration of particular matters.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(8)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall appoint a Secretary for the National Council.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "3",
+    "sub_section": "3(10)",
+    "topic": "Establishment of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall compile and publish a National Register of clinical establishments within two years from the date of the commencement of this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall classify the clinical establishments into different categories.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall develop the minimum standards and their periodic review.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall determine within a period of two years from its establishment, the first set of standards for ensuring proper healthcare by the clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall collect the statistics in respect of clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall perform any other function determined by the Central Government from time to time.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "5",
+    "sub_section": null,
+    "topic": "Functions of National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council may associate with itself any person or body",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "6",
+    "sub_section": null,
+    "topic": "Power to seek advice or assistance",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The National Council shall follow a consultative process for determining the standards and for classification of clinical establishments in accordance with such procedure as may be prescribed.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "7",
+    "sub_section": null,
+    "topic": "National Council to follow consultative process",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall constitute a State Council for clinical establishments or the Union territory Council for clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(1)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text describes the composition of a council, specifically The State Council or the Union territory Council. The members include ex officio members such as Secretary, Health, Director of Health Services, Directors of different streams of Indian Systems of Medicine, and representatives elected by various executive committees and organizations.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(2)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The nominated member of the State Council or the Union territory Council, as the case may be, shall hold office for a term of three years, but shall be eligible for re-nomination for maximum of one more term of three years.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(3)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The elected members of the State Council or the Union territory Council, as the case may be, shall hold office for three years.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(4)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall hold office for so long as he holds the appointment of the office by virtue of which he was nominated or elected to the State Council or the Union territory Council.",
+    "type": "condition",
+    "applies_to": [
+      "elected members of the State Council or the Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(4)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Council or the Union territory Council shall perform the following functions",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "compiling and updating the State Registers of clinical establishment",
+    "type": "obligation",
+    "applies_to": [
+      "State Council | Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "sending monthly returns for updating the National Register",
+    "type": "obligation",
+    "applies_to": [
+      "State Council | Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "representing the State in the National Council",
+    "type": "obligation",
+    "applies_to": [
+      "State Council | Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "hearing of appeals against the orders of the authority",
+    "type": "obligation",
+    "applies_to": [
+      "State Council | Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "publication on annual basis a report on the state of implementation of standards within their respective States",
+    "type": "obligation",
+    "applies_to": [
+      "State Council | Union territory Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "8",
+    "sub_section": "8(5)",
+    "topic": "State Council of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall be the responsibility of the State Council for clinical establishments",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "9",
+    "sub_section": null,
+    "topic": "Providing information to National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Council for clinical establishments shall compile and update the State Register of clinical establishments of the State and further send monthly returns in digital format for updating the National Register.",
+    "type": "obligation",
+    "applies_to": [
+      "State Council for clinical establishments"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "9",
+    "sub_section": null,
+    "topic": "Providing information to National Council",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government shall, by notification, set-up an authority to be called the district registering authority for each district for registration of clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "10",
+    "sub_section": "10(1)",
+    "topic": "Authority for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Nothing contained in sub-section is applicable.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "10",
+    "sub_section": "10(2)",
+    "topic": "Authority for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purposes of provisional registration of clinical establishments under section 14,",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "10",
+    "sub_section": "10(1)",
+    "topic": "Authority for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The District Health Officer or the Chief Medical Officer (by whatever name called) shall exercise the powers of the authority as per procedure that may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "District Health Officer | Chief Medical Officer"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "10",
+    "sub_section": "10(1)",
+    "topic": "Authority for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A person shall not run a clinical establishment unless it has been duly registered in accordance with the provisions of this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "person",
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "11",
+    "sub_section": null,
+    "topic": "Registration for clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every clinical establishment shall fulfil the following conditions",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Condition for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For registration and continuation, every clinical establishment shall fulfil the minimum standards of facilities and services as may be prescribed; the minimum requirement of personnel as may be prescribed; provisions for maintenance of records and reporting as may be prescribed; such other conditions as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "12",
+    "sub_section": "12(1)",
+    "topic": "Condition for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall undertake to provide within the staff and facilities available, such medical examination and treatment as may be required to stabilise the emergency medical condition of any individual who comes or is brought to such clinical establishment.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Condition for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall undertake to provide within the staff and facilities available, such medical examination and treatment as may be required to stabilise the emergency medical condition of any individual who comes or is brought to such clinical establishment.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "12",
+    "sub_section": "12(2)",
+    "topic": "Condition for registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Clinical establishments are classified into various categories as prescribed by the Central Government.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Classification of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Different standards may be prescribed for classification of different categories referred to in sub- section",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "13",
+    "sub_section": "13(2)",
+    "topic": "Classification of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any explicit scope information.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Classification of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "In prescribing the standards for clinical establishments, the Central Government shall have regard to the local conditions.",
+    "type": "condition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "13",
+    "sub_section": "13(1)",
+    "topic": "Classification of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the registration of a clinical establishment under section 10.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An application in the prescribed proforma along with the prescribed fee shall be made to the authority.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(1)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The application shall be filed.",
+    "type": "obligation",
+    "applies_to": [
+      "application"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(2)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The application shall be made in such form and shall be accompanied by such details as may be prescribed under this Act or rules made thereunder.",
+    "type": "obligation",
+    "applies_to": [
+      "application"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(3)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If any clinical establishment is in existence at the time of the commencement of this Act",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(4)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clinical establishment which comes into existence after commencement of this Act",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(4)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "an application for its registration shall be made within one year from the date of the commencement of this Act",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(4)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a clinical establishment which comes into existence after commencement of this Act, shall apply for permanent registration within a period of six months from the date of its establishment",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(4)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If any clinical establishment is already registered under any existing law requiring registration of such establishments",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(5)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It shall apply for registration as referred to in sub-section",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "14",
+    "sub_section": "14(5)",
+    "topic": "Application for provisional certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall grant to the applicant a certificate of provisional registration within a period of ten days from the date of receipt of such application.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "15",
+    "sub_section": null,
+    "topic": "Provisional certificate",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall not conduct any inquiry prior to the grant of provisional registration.",
+    "type": "prohibition",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "16",
+    "sub_section": "16(1)",
+    "topic": "No inquiry prior to provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall publish all particulars of the clinical establishment within a period of forty-five days from the grant of provisional registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "16",
+    "sub_section": "16(2)",
+    "topic": "No inquiry prior to provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every provisional registration is valid for a period of twelve months from the date of issue of the certificate of registration, and can be renewed.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "17",
+    "sub_section": null,
+    "topic": "Validity of provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every provisional registration shall be subject to the provisions of section 23.",
+    "type": "condition",
+    "applies_to": [
+      "provisional registration"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "17",
+    "sub_section": null,
+    "topic": "Validity of provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The certificate shall be kept affixed in a conspicuous place in the clinical establishment in such manner so as to be visible to every one visiting such establishment.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "18",
+    "sub_section": null,
+    "topic": "Display of certificate of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "In case the certificate is lost, destroyed, mutilated or damaged, the authority shall issue a duplicate certificate on the request of the clinical establishment and on the payment of such fees as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "19",
+    "sub_section": null,
+    "topic": "Duplicate certificate",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The certificate of registration shall be non-transferable.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment",
+      "hospital",
+      "company",
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "20",
+    "sub_section": "20(1)",
+    "topic": "Certificate to be non-transferable",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall inform the authority of any change of ownership or management in such a manner as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "20",
+    "sub_section": "20(2)",
+    "topic": "Certificate to be non-transferable",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the circumstances under which a clinical establishment must surrender its certificate of registration and reapply for a new one: change of category, location, or ceasing to function.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "20",
+    "sub_section": "20(3)",
+    "topic": "Certificate to be non-transferable",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If there is a change of category, location, or the clinical establishment ceases to function, it shall surrender its certificate of registration and apply afresh for grant of certificate of registration.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "20",
+    "sub_section": "20(3)",
+    "topic": "Certificate to be non-transferable",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall cause to be published within such time and in such manner, as may be prescribed, the names of clinical establishments whose registration has expired.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "21",
+    "sub_section": null,
+    "topic": "Publication of expiry of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The application for renewal of registration shall be made thirty days before the expiry of the validity of the certificate of provisional registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "22",
+    "sub_section": null,
+    "topic": "Renewal of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the application for renewal is made after the expiry of the provisional registration, the authority shall allow renewal of registration on payment of such enhanced fees, as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "22",
+    "sub_section": null,
+    "topic": "Renewal of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the scope of provisional registration for clinical establishments in relation to the notification of standards by the Central Government and the commencement of this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "23",
+    "sub_section": null,
+    "topic": "Time limit for provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Provisional registration shall not be granted or renewed beyond the specified periods depending on when the clinical establishment came into existence.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "23",
+    "sub_section": null,
+    "topic": "Time limit for provisional registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A permanent registration application for a clinical establishment must be made to the authority.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "24",
+    "sub_section": null,
+    "topic": "Application for permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall submit evidence of having complied with the prescribed minimum standards.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "25",
+    "sub_section": null,
+    "topic": "Verification of application",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall cause to be displayed all evidence submitted by the clinical establishment of having complied with the prescribed minimum standards for a period of thirty days before processing for grant of permanent registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "26",
+    "sub_section": null,
+    "topic": "Display of information for filing objections",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If objections are received within the period referred to in the preceding section, such objections shall be communicated to the clinical establishment for response within a period of forty-five days.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "27",
+    "sub_section": null,
+    "topic": "Communication of objections",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A clinical establishment must fulfill the prescribed standards for registration by the Central Government to receive permanent registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "28",
+    "sub_section": null,
+    "topic": "Standards for permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Permanent registration shall be granted only",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "28",
+    "sub_section": null,
+    "topic": "Standards for permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The prescribed period is not explicitly defined in the given text.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "29",
+    "sub_section": null,
+    "topic": "Allowing or disallowing of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall pass an order either allowing or disallowing the application for permanent registration within 30 days after the expiry of the prescribed period.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "29",
+    "sub_section": null,
+    "topic": "Allowing or disallowing of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the authority disallows an application, it shall record its reasons for doing so.",
+    "type": "condition",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "29",
+    "sub_section": null,
+    "topic": "Allowing or disallowing of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall, if it, allows an application of the clinical establishment,",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(1)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall issue a certificate of permanent registration.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(1)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The certificate shall be valid for a period of five years from the date of issue.",
+    "type": "obligation",
+    "applies_to": [
+      "certificate"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(2)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The term 'sub-section' refers to a part or section within a larger legal document.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(3)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of sections 18, 19, 20 and 21 shall also apply.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(1)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The applications for renewal of permanent registration shall be made within six months before the expiry of the validity of the certificate of permanent registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(4)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the application of renewal is not submitted within the stipulated period, the authority may allow renewal of registration on payment of such enhanced fees and penalties as may be prescribed.",
+    "type": "condition",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "30",
+    "sub_section": "30(4)",
+    "topic": "Certificate of permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A clinical establishment that has had an application for permanent registration disallowed shall not be barred from applying afresh for permanent registration under section 24, provided that it presents evidence of having rectified the deficiencies on which grounds the earlier application was disallowed.",
+    "type": "condition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "31",
+    "sub_section": null,
+    "topic": "Fresh application for permanent registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to a clinical establishment registered under this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(1)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the conditions of registration are not being complied with, or if the person entrusted with the management of the clinical establishment has been convicted of an offence punishable under this Act, the authority may issue a notice to the clinical establishment to show cause within three months' time as to why its registration should not be cancelled.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(1)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority has the power to cancel the registration of a clinical establishment if there is a breach of any provisions of this Act or the rules made thereunder.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(2)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If after giving a reasonable opportunity to the clinical establishment, the authority is satisfied that there has been a breach of any of the provisions of this Act or the rules made thereunder, it may cancel its registration.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(2)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the order takes effect either (a) where no appeal has been preferred against such order immediately on the expiry of the period prescribed for such appeal; or (b) where such appeal has been preferred and it has been dismissed from the date of the order of such dismissal. Provided that, in case of cancellation of registration for reasons to be recorded in writing, the authority may restrain immediately the clinical establishment from carrying on if there is imminent danger to the health and safety of patients.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(2)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority may cancel the registration of a clinical establishment for reasons to be recorded in writing.",
+    "type": "prohibition",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(2)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If the order is cancelled, the clinical establishment may be restrained immediately from carrying on if there is imminent danger to the health and safety of patients.",
+    "type": "condition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "32",
+    "sub_section": "32(2)",
+    "topic": "Cancellation of registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority or an officer authorised by it shall have the right to cause an inspection of, or inquiry in respect of any registered clinical establishment",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall have the right to cause an inspection of, or inquiry in respect of any registered clinical establishment, its building, laboratories and equipment and also of the work conducted or done by the clinical establishment",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall be entitled to be represented thereat",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(1)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall communicate to the clinical establishment the views of that authority with reference to the results of such inspection or inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(2)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall report to the authority",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(3)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall report to the authority, the action, if any, which is proposed to be taken or has been taken upon the results of such inspection or inquiry and such report shall be furnished within such time, as the authority may direct.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(3)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the scope of actions for a 'clinical establishment' when it does not comply with certain requirements within a reasonable time, as determined by an authority.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(4)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a clinical establishment fails to take action to the satisfaction of the authority within a reasonable time, the authority may issue directions to the clinical establishment. The clinical establishment shall comply with such directions.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "33",
+    "sub_section": "33(4)",
+    "topic": "Inspection of registered clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority or an officer authorised by it may enter and search at any reasonable time a clinical establishment if there is any reason to suspect that anyone is carrying on a clinical establishment without registration.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "34",
+    "sub_section": null,
+    "topic": "Power to enter",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The clinical establishment shall offer reasonable facilities for inspection or inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "34",
+    "sub_section": null,
+    "topic": "Power to enter",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No such person shall enter the clinical establishment without giving notice of his intention to do so.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "34",
+    "sub_section": null,
+    "topic": "Power to enter",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government may charge fees for different categories of clinical establishments.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "35",
+    "sub_section": null,
+    "topic": "Levy of fee by State Government",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any person, aggrieved by an order of the registering authority refusing to grant or renew a certificate of registration or revoking a certificate of registration may, in such manner and within such period as may be prescribed, prefer an appeal to the State Council.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "36",
+    "sub_section": "36(1)",
+    "topic": "Appeal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Council may entertain an appeal preferred after the expiry of the prescribed period if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal in time.",
+    "type": "exception",
+    "applies_to": [
+      "State Council"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "36",
+    "sub_section": "36(1)",
+    "topic": "Appeal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "CHAPTER V REGISTER OF CLINICAL ESTABLISHMENTS",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "36",
+    "sub_section": "36(1)",
+    "topic": "Appeal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall be made in such form and be accompanied by such fee as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "36",
+    "sub_section": "36(1)",
+    "topic": "Appeal",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall within a period of two years from its establishment",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "37",
+    "sub_section": "37(1)",
+    "topic": "Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall compile, publish and maintain in digital format a register of clinical establishments, registered by it.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "37",
+    "sub_section": "37(1)",
+    "topic": "Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "it shall enter the particulars of the certificate so issued in a register to be maintained in such form and manner, as may be prescribed by the State Government.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "37",
+    "sub_section": "37(1)",
+    "topic": "Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Each authority, including any other authority set-up for the registration of clinical establishments under any other law for the time being in force,",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "37",
+    "sub_section": "37(2)",
+    "topic": "Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Each authority shall supply in digital format to the State Council of clinical establishments a copy of every entry made in the register of clinical establishments in such manner, as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "37",
+    "sub_section": "37(2)",
+    "topic": "Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a register maintained by every State Government in digital and such form containing such particulars as may be prescribed by the Central Government, regarding clinical establishments of that State.",
+    "term": "State Register of clinical establishments",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "Maintenance of State Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall maintain a State Register of clinical establishments in respect of clinical establishments of that State.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "38",
+    "sub_section": "38(1)",
+    "topic": "Maintenance of State Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall supply digital copies of the State Register of clinical establishments to the Central Government and inform them of all additions and amendments made for a particular month by the 15th day of the following month.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "38",
+    "sub_section": "38(2)",
+    "topic": "Maintenance of State Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall supply digital copies of the State Register of clinical establishments to the Central Government.",
+    "type": "obligation",
+    "applies_to": [
+      "State Government"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "38",
+    "sub_section": "38(2)",
+    "topic": "Maintenance of State Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every State Government shall inform the Central Government all additions and amendments made in such register for a particular month by the 15th day of the following month.",
+    "type": "obligation",
+    "applies_to": [
+      "State Government"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "38",
+    "sub_section": "38(2)",
+    "topic": "Maintenance of State Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government shall maintain in digital format an All India Register to be called as the National Register of clinical establishments that shall be an amalgam of the State Register of clinical establishments maintained by the State Governments and shall cause the same to be published in digital format.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "39",
+    "sub_section": null,
+    "topic": "Maintenance of National Register of clinical establishments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever contravenes any provision of this Act shall be punishable.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "40",
+    "sub_section": null,
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the first offence, fine which may extend to ten thousand rupees. For any second offence, fine which may extend to fifty thousand rupees and for any subsequent offence with fine which may extend to five lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "40",
+    "sub_section": null,
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever carries on a clinical establishment without registration shall be liable.",
+    "type": "prohibition",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(1)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "On first contravention, a monetary penalty up to fifty thousand rupees. For second contravention, a monetary penalty which may extend to two lakh rupees. For any subsequent contravention, a monetary penalty which may extend to five lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(1)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever knowingly serves in a clinical establishment which is not duly registered under this Act, shall be liable.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(2)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a monetary penalty which may extend to twenty-five thousand rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(2)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purpose of adjudging under sub-sections",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(3)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall hold an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any monetary penalty.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(2)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While holding an inquiry, the authority shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(4)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority may summon and enforce the attendance of any person. The person is required to give evidence or produce any document which in the opinion of the authority, may be useful for or relevant to the subject matter of the inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(4)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a person fails to comply with the provisions specified in sub-sections, it is satisfied that the person has failed to comply.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(4)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an order is imposed, it requires the monetary penalty specified in certain sub-sections to be deposited within thirty days of the order in the account referred to in sub-section.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(2)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Section 42",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(8)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While determining the quantum of monetary penalty, the authority shall take into account the category, size and type of the clinical establishment and local conditions of the area in which the establishment is situated.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(5)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall determine the quantum of monetary penalty based on the category, size and type of the clinical establishment and local conditions of the area in which the establishment is situated.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(5)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "shall be such as may be prescribed.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "41",
+    "sub_section": "41(6)",
+    "topic": "Monetary penalty for non-registration",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever wilfully disobeys any direction lawfully given by any person or authority empowered under this Act to give such direction, or obstructs any person or authority in the discharge of any functions which such person or authority is required or empowered under this Act to discharge, shall be liable.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(1)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "A monetary penalty which may extend to five lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(1)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever being required by or under this Act to supply any information wilfully withholds such information or gives information which he knows to be false or which he does not believe to be true, shall be liable.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(2)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "liable to a monetary penalty which may extend to five lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(2)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "For the purpose of adjudging under sub-sections",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(3)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall hold an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any monetary penalty.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(2)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While holding an inquiry, the authority shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(4)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority may summon and enforce the attendance of any person. The person is required to give evidence or produce any document which in the opinion of the authority, may be useful for or relevant to the subject matter of the inquiry.",
+    "type": "obligation",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(4)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a person fails to comply with the provisions specified in sub-sections, it is satisfied that the person has failed to comply.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(4)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an order is imposed, it requires the monetary penalty specified in certain sub-sections to be deposited within thirty days of the order in the account referred to in sub-section.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment | hospital | company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(2)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "While determining the quantum of monetary penalty, the authority shall take into account the category, size and type of the clinical establishment and local conditions of the area in which the establishment is situated.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(5)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall determine the quantum of monetary penalty based on the category, size and type of the clinical establishment and local conditions of the area in which the establishment is situated.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "42",
+    "sub_section": "42(5)",
+    "topic": "Disobedience of direction, obstruction and refusal of information",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever contravenes any provision of this Act or any rule made thereunder resulting in deficiencies that do not pose any imminent danger to the health and safety of any patient and can be rectified within a reasonable time, shall be punishable.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "43",
+    "sub_section": null,
+    "topic": "Penalty for minor deficiencies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "punishable with fine which may extend to ten thousand rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "43",
+    "sub_section": null,
+    "topic": "Penalty for minor deficiencies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to a person committing a contravention of any provisions in this Act or rules made thereunder, specifically when that person is a company.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If a person (who is in charge of and responsible for the conduct of a company's business at the time of contravention) commits a contravention of any provisions in this Act or rules made thereunder, both the person and the company shall be deemed guilty and liable to fine.",
+    "type": "obligation",
+    "applies_to": [
+      "company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No punishment will be rendered to any such person if they prove that the contravention was committed without their knowledge or that they had exercised all due diligence to prevent the commission of such contravention.",
+    "type": "exception",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Fine for both the company and any person in charge of and responsible for the conduct of the company's business at the time of contravention.",
+    "type": "penalty",
+    "applies_to": [
+      "company | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Nothing contained in sub-section is applicable.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(2)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a body corporate and includes a firm or other association of individuals",
+    "term": "company",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "in relation to a firm, means a partner in the firm",
+    "term": "director",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This section applies when a contravention of any provisions of this Act or any rule made thereunder has been committed by a company.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that contravention and shall be liable to fine.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "44",
+    "sub_section": "44(1)",
+    "topic": "Contravention by companies",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Where an offence under this Act has been committed by any Department of Government within a period of six months after the commencement of this Act,",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Head of the Department shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.",
+    "type": "obligation",
+    "applies_to": [
+      "Head of the Department"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Provided that nothing contained in this section shall render such Head of the Department liable to any punishment if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+    "type": "exception",
+    "applies_to": [
+      "Head of the Department"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Head of the Department shall be liable to be proceeded against and punished accordingly.",
+    "type": "penalty",
+    "applies_to": [
+      "Head of the Department"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Nothing contained in sub-section is applicable.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(2)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An offence under this Act has been committed by a Department of Government",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an offence under this Act is committed by a Department of Government and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any officer (other than the Head of the Department), such officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+    "type": "prohibition",
+    "applies_to": [
+      "Department of Government | Officer"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "such officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "45",
+    "sub_section": "45(1)",
+    "topic": "Offences by Government Departments",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses penalties for failing to pay a fine in the context of clinical establishments, individuals who own property or reside or carry on business in a district.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "46",
+    "sub_section": null,
+    "topic": "Recovery of fine",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If someone fails to pay a fine, the State Council of clinical establishment can prepare a certificate specifying the due amount. The Collector of the District where the person owns property, resides or carries on business will recover the specified amount as if it were an arrear of land revenue.",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment | individual"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "46",
+    "sub_section": null,
+    "topic": "Recovery of fine",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No suit, prosecution or other legal proceedings shall lie against any authority or any member of the National Council or State Council or any officer authorized in this behalf in respect of anything, which is in good faith done or intended to be done in pursuance of the provisions of this Act or any rule made thereunder.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "47",
+    "sub_section": "47(1)",
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text pertains to legal proceedings against State Government or Central Government in respect of loss or damage caused by anything done in good faith pursuant to this Act or any rule made thereunder.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "47",
+    "sub_section": "47(2)",
+    "topic": "Protection of action taken in good faith",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every clinical establishment shall furnish returns or the statistics and other information to the authority or the State Council or the National Council within such time or extended time as may be prescribed.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "48",
+    "sub_section": null,
+    "topic": "Furnishing of returns, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every clinical establishment shall furnish returns or the statistics and other information in such manner, as may be prescribed by the State Government, from time to time.",
+    "type": "obligation",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "48",
+    "sub_section": null,
+    "topic": "Furnishing of returns, etc",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act applies to the authority's power to issue directions for the proper functioning of clinical establishments.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "49",
+    "sub_section": null,
+    "topic": "Power to give directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The authority shall have the power to issue directions, including furnishing returns, statistics and other information for the proper functioning of clinical establishments. These directions are binding.",
+    "type": "obligation",
+    "applies_to": [
+      "authority"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "49",
+    "sub_section": null,
+    "topic": "Power to give directions",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may make provisions necessary or expedient for removal of difficulty arising in giving effect to the provisions of this Act, but only within a period of two years from the date of commencement of this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "51",
+    "sub_section": "51(1)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.",
+    "type": "obligation",
+    "applies_to": [
+      "order"
+    ],
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "51",
+    "sub_section": "51(2)",
+    "topic": "Power to remove difficulties",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, by notification, make rules for carrying out all or any of the provisions of this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 3",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(5)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text discusses the responsibilities of a regulatory body in India, specifically related to section 3 and section 7. However, it does not provide explicit details on the applicability, extent, or commencement.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(10)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 10",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 12",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clause (iii) of sub-section",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "clause (iv) of sub-section",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 12",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 13",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(1)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": null,
+    "term": "section 13",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": null,
+    "term": "section 28",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": null,
+    "term": "section 38",
+    "type": "definition",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "52",
+    "sub_section": "52(2)",
+    "topic": "Power of Central Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made by the Central Government under this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "53",
+    "sub_section": null,
+    "topic": "Laying of rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The State Government may, by notification, make rules for carrying out matters which do not fall within the purview of section 52.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(1)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "the generality of the foregoing power",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(2)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "section 14",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(1)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the details required for registration of a clinical establishment, including those from sections 14 and 15.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(3)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text appears to discuss various aspects related to the operation and registration of clinical establishments, such as the manner of publishing names, enhanced fees for renewal, form of application, submission of evidence, displaying information, expiry periods, form and particulars of certificate of registration, and the period within which an appeal can be preferred.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(2)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(2)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text does not contain any scope information.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(1)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text refers to various sections of a law, specifically sections 41 and 42, the manner and time for furnishing information under section 48, and any other matters that may be prescribed by the State Government.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "54",
+    "sub_section": "54(7)",
+    "topic": "Power of State Government to make rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Every rule made by the State Government under this section shall be laid before each House of the State Legislature where it consists of two Houses, or where such Legislature consists of one House, before that House.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "55",
+    "sub_section": null,
+    "topic": "Laying of rules",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of this Act shall not apply to the States in which the enactments specified in the Schedule are applicable.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "56",
+    "sub_section": "56(1)",
+    "topic": "Savings",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act is applicable to all clinical establishments, hospitals, educational institutions, research organizations, laboratories, and pharmacies in the States that have adopted this Act.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "56",
+    "sub_section": "56(1)",
+    "topic": "Savings",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The provisions of this Act shall apply in a State subsequent to its adoption.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "56",
+    "sub_section": "56(1)",
+    "topic": "Savings",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The Central Government may, as and when consider necessary, by notification amend the Schedule.",
+    "type": "scope",
+    "law": "THE CLINICAL ESTABLISHMENTS (REGISTRATION AND REGULATION) ACT, 2010",
+    "section": "56",
+    "sub_section": "56(2)",
+    "topic": "Savings",
+    "jurisdiction": "India"
+  }
+]

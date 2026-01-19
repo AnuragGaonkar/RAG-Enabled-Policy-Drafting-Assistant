@@ -1,0 +1,10 @@
+flask
+flask-cors
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+pymongo
+python-dotenv
+sentence-transformers

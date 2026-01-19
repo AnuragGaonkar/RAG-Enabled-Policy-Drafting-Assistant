@@ -1,0 +1,224 @@
+[
+  {
+    "text": "This Act may be called the Epidemic Diseases Act, 1897.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "1",
+    "sub_section": "1(1)",
+    "topic": "Short title and extent",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "includes any of the following acts committed by any person against a healthcare service personnel serving during an epidemic, which causes or may cause— (i) harassment impacting the living or working conditions of such healthcare service personnel and preventing him from discharging his duties; (ii) harm, injury, hurt, intimidation or danger to the life of such healthcare service personnel, either within the premises of a clinical establishment or otherwise; (iii) obstruction or hindrance to such healthcare service personnel in the discharge of his duties, either within the premises of a clinical establishment or otherwise; or (iv) loss or damage to any property or documents in the custody of, or in relation to, such healthcare service personnel;",
+    "term": "act of violence",
+    "type": "definition",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title and extent",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "a person who while carrying out his duties in relation to epidemic related responsibilities, may come in direct contact with affected patients and thereby is at the risk of being impacted by such disease, and includes— (i) any public and clinical healthcare provider such as doctor, nurse, paramedical worker and community",
+    "term": "healthcare service personnel",
+    "type": "definition",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title and extent",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "It extends to the whole of India",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title and extent",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any individual who is a doctor, nurse, paramedic, laboratory technician, or any other person empowered under the Act to take measures to prevent the outbreak of a disease or spread thereof.",
+    "term": "health worker",
+    "type": "definition",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "1",
+    "sub_section": "1(2)",
+    "topic": "Short title and extent",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This Act applies to any person who disobeys any regulation or order made under this Act.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(1)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Any person disobeying any regulation or order made under this Act shall be deemed to have committed an offence.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(1)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The offence is punishable under section 188 of the Indian Penal Code (45 of 1860).",
+    "type": "penalty",
+    "applies_to": [
+      "clinical establishment"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(1)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever commits or abets the commission of an act of violence against a healthcare service personnel, or abets or causes damage or loss to any property shall be punished.",
+    "type": "prohibition",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The punishment is imprisonment for a term which shall not be less than three months, but which may extend to five years, and with fine, which shall not be less than fifty thousand rupees, but which may extend to two lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The text pertains to the punishment for causing grievous hurt to a healthcare service personnel while committing an act of violence.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Whoever, while committing an act of violence against a healthcare service personnel, shall be punished with imprisonment for a term which shall not be less than six months, but which may extend to seven years and with fine, which shall not be less than one lakh rupees, but which may extend to five lakh rupees.",
+    "type": "obligation",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "imprisonment for a term which shall not be less than six months, but which may extend to seven years and with fine, which shall not be less than one lakh rupees, but which may extend to five lakh rupees.",
+    "type": "penalty",
+    "applies_to": [
+      "individual"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Section 3 will be cognizable and non-bailable.",
+    "type": "obligation",
+    "applies_to": [
+      "case"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "Investigation of a case under section 3 shall be investigated by a police officer not below the rank of Inspector.",
+    "type": "obligation",
+    "applies_to": [
+      "case under section 3"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The completion of section 3 shall be completed within a period of thirty days from the date of registration of the First Information Report.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "The proceedings shall be held as expeditiously as possible, and in particular, when the examination of witnesses has once begun, the same shall be continued from day to day until all the witnesses in attendance have been examined, unless the Court finds the adjournment of the same beyond the following day to be necessary for reasons to be recorded.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "An endeavor shall be made to ensure that the inquiry or trial is concluded within a period of one year: Provided that where the trial is not concluded within the said period, the Judge shall record the reasons for not having done so: Provided further that the said period may be extended by such further period, for reasons to be recorded in writing, but not exceeding six months at a time.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(3)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "If an offence occurs under section 3, it may be compounded by the person against whom the act of violence was committed, with the permission of the Court.",
+    "type": "prohibition",
+    "applies_to": [
+      "offence"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "3",
+    "sub_section": "3(2)",
+    "topic": "Penalty",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "This text refers to a legal proceeding that may arise from actions taken under the specified Act.",
+    "type": "scope",
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Protection to persons acting under Act",
+    "jurisdiction": "India"
+  },
+  {
+    "text": "No suit or other legal proceeding shall lie against any person for anything done or in good faith intended to be done under this Act.",
+    "type": "prohibition",
+    "applies_to": [
+      "person"
+    ],
+    "law": "THE EPIDEMIC DISEASES ACT, 1897",
+    "section": "4",
+    "sub_section": null,
+    "topic": "Protection to persons acting under Act",
+    "jurisdiction": "India"
+  }
+]
