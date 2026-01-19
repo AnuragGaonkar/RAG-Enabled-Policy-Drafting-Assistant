@@ -1,11 +1,11 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Send, Bot, User, FileCog, MessagesSquare, Download, Save, FileText } from 'lucide-react';
+import { Send, Bot, User, FileCog, MessagesSquare, Download, Save, FileText, Check } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { PolicyActionsPanel } from '@/components/policy-actions-panel';
-import ReactMarkdown from "react-markdown"; // Ensure this is installed
+import ReactMarkdown from "react-markdown";
 
-// --- Internal Components ---
+// --- Chat Component ---
 const ChatMessage = ({ role, content }) => (
   <motion.div
     initial={{ opacity: 0, y: 10 }}
@@ -36,13 +36,53 @@ const ChatMessage = ({ role, content }) => (
 const Editor = () => {
   const [activeTab, setActiveTab] = useState('chat');
   const [messages, setMessages] = useState([
-    { role: 'assistant', content: 'I am the Drafting Agent. Tell me what policy you need (e.g., "Draft a Data Privacy Policy for a hospital").' }
+    { role: 'assistant', content: 'I am the Drafting Agent. Tell me what policy you need (e.g., "Draft a Data Privacy Policy").' }
   ]);
   const [input, setInput] = useState('');
   const [isTyping, setIsTyping] = useState(false);
   const messagesEndRef = useRef(null);
   const [documentContent, setDocumentContent] = useState("# New Policy Document\n\nGenerated content will appear here...");
+  const [saveStatus, setSaveStatus] = useState("idle"); // idle, saving, saved, error
 
+  // --- BUTTON LOGIC ---
+
+  // 1. Export as File (Download to PC)
+  const handleExport = () => {
+    const element = document.createElement("a");
+    const file = new Blob([documentContent], {type: 'text/markdown'});
+    element.href = URL.createObjectURL(file);
+    element.download = "policy_draft.md";
+    document.body.appendChild(element); // Required for Firefox
+    element.click();
+    document.body.removeChild(element);
+  };
+
+  // 2. Save to Database (MongoDB)
+  const handleSave = async () => {
+    setSaveStatus("saving");
+    try {
+        const response = await fetch('/api/save-draft', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ 
+                content: documentContent, 
+                filename: "Draft_Policy_" + Date.now() 
+            })
+        });
+        
+        if (response.ok) {
+            setSaveStatus("saved");
+            setTimeout(() => setSaveStatus("idle"), 2000);
+        } else {
+            setSaveStatus("error");
+        }
+    } catch (e) {
+        console.error("Save failed", e);
+        setSaveStatus("error");
+    }
+  };
+
+  // --- CHAT LOGIC ---
   const handleSend = async () => {
     if (!input.trim()) return;
     const userMsg = { role: 'user', content: input };
@@ -51,7 +91,6 @@ const Editor = () => {
     setIsTyping(true);
 
     try {
-        // CALL THE NEW PIPELINE
         const response = await fetch('/api/draft', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -59,10 +98,10 @@ const Editor = () => {
         });
 
         const data = await response.json();
-        const aiMsg = { role: 'assistant', content: "I have drafted the policy based on legal requirements. Check the editor panel on the right." };
+        const aiMsg = { role: 'assistant', content: "Draft generated based on legal requirements. See the preview." };
         
         setMessages(prev => [...prev, aiMsg]);
-        setDocumentContent(data.response); // Update the Editor Canvas directly
+        setDocumentContent(data.response); 
 
     } catch (error) {
         setMessages(prev => [...prev, { role: 'assistant', content: "Error connecting to drafting engine." }]);
@@ -78,7 +117,7 @@ const Editor = () => {
   return (
     <div className="flex h-full overflow-hidden bg-background">
       
-      {/* LEFT SIDEBAR */}
+      {/* SIDEBAR */}
       <div className="w-[400px] flex flex-col border-r border-border bg-card">
         <div className="flex border-b border-border">
             <button 
@@ -122,19 +161,35 @@ const Editor = () => {
         )}
       </div>
 
-      {/* RIGHT PANEL: Editor Canvas */}
+      {/* EDITOR CANVAS */}
       <div className="flex-1 flex flex-col h-full bg-muted/30">
         <div className="h-14 border-b border-border bg-card px-6 flex items-center justify-between shadow-sm shrink-0">
             <div className="flex items-center gap-2">
               <FileText size={16} className="text-muted-foreground" />
               <span className="font-semibold text-sm">Policy Draft Preview</span>
             </div>
+            
+            {/* ACTION BUTTONS */}
             <div className="flex gap-2">
-               <button className="flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-muted-foreground bg-card border border-border rounded-md hover:bg-muted">
+               <button 
+                 onClick={handleExport}
+                 className="flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-muted-foreground bg-card border border-border rounded-md hover:bg-muted transition-colors"
+               >
                 <Download size={14} /> Export
               </button>
-              <button className="flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-primary-foreground bg-primary rounded-md hover:bg-primary/90">
-                <Save size={14} /> Save
+              
+              <button 
+                onClick={handleSave}
+                disabled={saveStatus === 'saving'}
+                className={cn(
+                    "flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-primary-foreground rounded-md transition-all shadow-sm",
+                    saveStatus === 'saved' ? "bg-green-600 hover:bg-green-700" : "bg-primary hover:bg-primary/90"
+                )}
+              >
+                {saveStatus === 'saving' && <span className="animate-spin">⏳</span>}
+                {saveStatus === 'saved' && <Check size={14} />}
+                {saveStatus === 'idle' && <Save size={14} />}
+                {saveStatus === 'saved' ? "Saved!" : "Save"}
               </button>
             </div>
         </div>
