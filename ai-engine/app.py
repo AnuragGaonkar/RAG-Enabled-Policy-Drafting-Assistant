@@ -5,6 +5,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from pymongo import MongoClient
+import datetime 
 
 # --- AI & RAG IMPORTS ---
 from langchain_community.document_loaders import PyPDFLoader
@@ -233,6 +234,22 @@ def draft():
         print(f"Pipeline Error: {e}")
         return jsonify({"response": f"**Drafting Error:** {str(e)}\n\nPlease try again with a more specific request."})
 
+@app.route('/api/save-draft', methods=['POST'])
+def save_draft():
+    data = request.json
+    content = data.get('content')
+    try:
+        client = MongoClient(MONGO_URI)
+        db = client.get_database()
+        collection = db['saved_drafts']
+        collection.insert_one({
+            "content": content,
+            "timestamp": datetime.datetime.utcnow()
+        })
+        return jsonify({"message": "Saved successfully"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
 @app.route('/check-conflict', methods=['POST'])
 def check_conflict():
     # --- USES PHI-3.5 (llm_draft) ---
